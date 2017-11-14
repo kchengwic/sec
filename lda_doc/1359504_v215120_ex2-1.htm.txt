@@ -1,0 +1,1192 @@
+
+EX-2.1
+2
+v215120_ex2-1.htm
+
+
+
+
+
+ 
+ASSET PURCHASE AGREEMENT
+ 
+ASSET PURCHASE AGREEMENT effective as of March 15, 2011 (the “Agreement”), by and among, Phreadz, Inc., a Nevada Corporation (“Buyer”), Zonein2, Inc, a California Corporation (“Seller” or “Zonein2”),  Certain capitalized terms used but not otherwise defined herein shall have the meanings ascribed thereto in Section 9.10.
+ 
+RECITALS
+ 
+WHEREAS, some of the Seller’s technology outlined in schedule 1.1 (the “computer code”) supports the ability to record and post video using a webcam, or mobile phone and will allow a Phreadz posting to be content shared and embedded from a wide variety of popular content networks on the web, eg: YouTube, Flickr, Facebook, MySpace, Podcasts etc. and also to allow sharing and cross-posting to a user's other social networks and blogging platforms; 
+ 
+WHEREAS, Seller’s technology, permits people to easily connect and interact with their communities. Through its patented, proprietary video, mobile phone and marketing technologies, Zonein2.com will offer the advantage of allowing users to create their own “zone”, which can include information and media that is important to them;
+ 
+WHEREAS, Seller desires to sell, and Buyer desires to purchase, some of Seller’s assets, inclusive of all know-how and other intellectual property, and wherever such assets may be located, that are or might be used in (collectively the “Assets”), and Buyer desires to assume no liabilities associated with the Assets, on the terms and conditions hereinafter set forth;
+ 
+WHEREAS, the Seller will continue under a different name, consistent with the development of its primary asset  - Zone Box;
+ 
+WHEREAS, Buyer has agreed to devote additional funds, management and other resources to develop, complete and launch a service utilizing and centered upon the Assets; and
+ 
+NOW THEREFORE, in consideration of the foregoing and the respective covenants, representations, warranties and agreements herein contained, the parties hereto agree as follows:
+ 
+ARTICLE I
+PURCHASE AND SALE OF ASSETS
+ 
+1.1         Assets to be Conveyed.   Subject to and in reliance upon the representations, warranties, covenants, conditions and agreements herein contained, and except as specifically excluded in Section 1.2 hereof, at the Closing (as defined in Section 3.1 below), Seller shall convey, sell, assign, transfer and deliver to Buyer, and Buyer shall purchase from Seller, all of Seller’s right, title and interest in and to the Assets specified in schedule 1.1, including without limitation the following assets and properties as
+they exist on the Closing Date (collectively, the “Purchased Assets”):
+ 
+
+
+  
+
+
+  
+
+
+
+
+
+  
+
+
+ 
+(a)           the tangible personal property of Seller used in connection with the Assets, including but not limited to software, hardware, personal computers, machinery, equipment, tools, furniture, furnishings, fixtures, goods, and other tangible personal property used or useful in or for the Assets, including the assets identified on Schedule 1.1(a), together with all third party warranties (express or implied), operating manuals and all tangible and intangible property related to the foregoing “Tangible Personal Property”);
+ 
+(b)           all rights of Seller under all agreements, contracts, sales and purchase orders and other instruments used in connection with the Assets, whether written or oral, in effect on the Closing Date, including but not limited to, supplier and vendor agreements, restrictive covenants and the Material Commitments, which are listed on Schedule 4.6 (collectively, the “Contracts”);
+ 
+(c)           all of Seller’s: patents, trademarks, trade names and service marks and registrations thereof and applications therefor, copyrights, registered copyrights and applications for copyright registration, domain names, marketing data, computer software, licenses, databases, products, data and documentation and other proprietary rights used in or for the Assets and any tangible media relating to the foregoing compiled on schedule 1.1 (c) (the “Proprietary Rights”), including but not limited to the Proprietary Rights listed on Schedule 4.17 and including all causes of action, demands, judgments and
+claims of any nature relating to the Proprietary Rights;
+ 
+(d)           All Governmental Approvals (and pending applications therefor), including the Governmental Approvals listed on Schedule 1.1(d) (to the extent the same are transferable);
+ 
+1.2         Assumed Obligations.  At the Closing, Seller shall assign, and Buyer shall assume, the Assumed Obligations.  Thereafter, Buyer shall pay, perform and discharge all such Assumed Obligations as and when such Assumed Obligations become due and owing.  For purposes of this Agreement, “Assumed Obligations” shall mean only the following liabilities of Seller:
+ 
+(a)           Any Liability to be performed or arising after the Closing Date specifically related to the Assets purchased
+ 
+1.4         Non-Assignable Assets.
+ 
+(a)           Notwithstanding anything to the contrary in this Agreement, if any of the  Purchased Assets are not assignable or transferable (each, a “Non-Assignable Asset”) without the consent of, or waiver by, a third party (each, an “Assignment Consent”), either as a result of the provisions thereof or applicable Legal Requirements, and any of such Assignment Consents are not obtained by Seller on or prior to the Closing Date, Buyer may elect to either (i) have Seller permanently retain the Non-Assignable Asset  or (ii) have Seller continue its efforts to obtain the
+Assignment Consents after Closing, and, in either case, this Agreement and the related instruments of transfer shall not constitute an assignment or transfer of such Non-Assignable Assets, and Buyer shall not assume Seller’s rights or obligations under such Non-Assignable Asset (and such Non-Assignable Asset shall not be included in the Purchased Assets).  If Buyer elects item (ii) above, Seller shall use commercially reasonable efforts to obtain all such Assignment Consents as soon as reasonably practicable after the Closing Date and thereafter assign to Buyer such Non-Assignable Assets.  Following any such assignment, such assets shall be deemed Purchased Assets for purposes of this Agreement.
+ 
+
+
+  
+
+
+2
+
+
+
+
+
+  
+
+
+ 
+(b)           After the Closing, Seller shall cooperate with Buyer in any reasonable arrangement designed to provide Buyer with all of the benefits of the Non-Assignable Assets as if the appropriate Assignment Consents had been obtained, including by granting subleases and establishing arrangements whereby Buyer shall undertake the work necessary to perform under the Contracts.
+ 
+1.5         Encumbrances.  Except for Permitted Encumbrances, the Purchased Assets conveyed to Buyer on the Closing Date pursuant to this Agreement will be conveyed to Buyer free and clear of all Encumbrances (as defined in Section 4.5(a) hereof).
+ 
+ARTICLE II
+CONSIDERATION FOR THE ACQUISITION
+ 
+2.1         Purchase Consideration.
+ 
+(a)           Buyer shall deliver or cause to be delivered to Seller at the Closing the Shares described below (the “Purchase Price”), payable in the following manner:
+ 
+(i)           Buyer shall deliver or cause to be delivered a share certificate representing 2,500,000 common shares of the company, as of the Closing Date.
+ 
+2.2           Proration.  All real property taxes, personal property taxes, or ad valorem obligations and similar recurring taxes and fees on the Acquired Assets for taxable periods beginning before, and ending after, the Closing Date, shall be prorated between Buyer and Seller, as applicable, as of the Closing Date.  Seller shall be responsible for all such taxes and fees on the Purchased Assets accruing during any period up to and including the Closing Date.  Buyer shall be responsible for all such taxes and fees on the Purchased Assets accruing during any period after the Closing
+Date.  With respect to Taxes described in this Section 2.4, Seller shall timely file all Tax Returns due before the Closing Date with respect to such Taxes and Buyer shall prepare and timely file all Tax Returns due after the Closing date with respect to such Taxes.  If one party remits to the appropriate taxing authority payment for Taxes, which are subject to proration under this Section 2.4 and such payment includes the other party’s share of such Taxes, such other party shall promptly reimburse the remitting party for its share of such Taxes.
+ 
+ARTICLE III
+CLOSING
+ 
+3.1         Closing.  The closing of the purchase and sale of the Purchased Assets shall be effected on March 15, 2011, at a time or place as the parties may agree.  Such closing shall be referred to herein as the “Closing,” and the date as of which the Closing occurs shall be referred to herein as the “Closing Date.”
+ 
+3.2         Closing Deliveries.  At the Closing, Seller and Buyer will deliver the agreements and other documents set forth in Article VIII.
+ 
+
+
+  
+
+
+3
+
+
+
+
+
+  
+
+
+ 
+ARTICLE IV
+REPRESENTATIONS AND WARRANTIES OF
+SELLER AND THE SHAREHOLDERS
+ 
+Except as specifically set forth on Schedule 4 (the “Seller Disclosure Schedule”) attached to this Agreement (the parts of which are numbered to correspond to the individual Section numbers of this Article 4), Seller and the Shareholders jointly and severally represent and warrant to and covenant with Buyer that, as of the Closing:
+ 
+4.1         Power and Authority; Effect of Agreement.  The execution, delivery and performance by Seller of the Transaction Agreements and the consummation by Seller of the transactions contemplated thereby have been duly authorized by all necessary corporate action on the part of Seller.  The Transaction Agreements have been duly and validly executed and delivered by Seller and constitute the valid and binding obligation of Seller, enforceable against Seller in accordance with its terms except insofar as the enforceability thereof may be limited by applicable bankruptcy, insolvency, reorganization,
+fraudulent conveyance, moratorium or other similar laws affecting the enforcement of creditors’ rights generally and by general principles of equity (whether considered in a proceeding in equity or at law). The execution, delivery and performance by Seller of the Transaction Agreements and the consummation by Seller of the transactions contemplated thereby will not, with or without the giving of notice or the lapse of time, or both, conflict with or violate (a) in any material respect, any material Law or Governmental Order applicable to Seller or (b) any provision of the Articles of Incorporation or the bylaws of Seller.
+ 
+4.2         Subsidiaries.  Seller does not have, and in the past five (5) years has not had, any Subsidiaries, nor is it, or has it during that period been, a general partner in any partnership or co-venturer in any joint venture or business enterprise.
+ 
+4.3         Organization of Seller.  Seller is a corporation duly organized, validly existing and in good standing under the laws of California, and has all requisite corporate power and authority to act as it is now being conducted and to own or lease and to develop its properties.
+ 
+4.4         Title to Assets.
+ 
+(i)    (a)             Seller has good, marketable and indefeasible title to all of the Purchased Assets owned (and not leased or licensed) by Seller. The Purchased Assets are free and clear of all liens, claims, charges, taxes, mortgages, pledges, security interests, equities, encumbrances or rights of any kind in third parties (collectively, “Encumbrances”), except (i) as set forth in Schedule 4.4(a) annexed hereto, (ii) for Permitted Encumbrances and/or (iii) restrictions imposed in any Governmental Approval.  Seller will provide a resolution at closing evidencing approval by
+Seller’s shareholder of the sale of Assets. Seller will provide an assignment of patent rights at closing which can be filed with United States Patent and Trademark Office (“USPTO”).
+ 
+(b)            The Purchased Assets are in good operating condition and repair free from any defects (except such minor defects as do not interfere with the use thereof in the conduct of the normal operations of Seller), have been maintained consistent with the standards generally followed in the industry and are sufficient to carry on the operations of Seller as presently conducted. The Seller warrants that the specified assets have not been used in an operating business.
+ 
+
+
+  
+
+
+4
+
+
+
+
+
+  
+
+
+ 
+(c)            Seller is not in breach of, or default under, any material provision of the Material Commitments, nor to Seller’s Knowledge, has any event or omission occurred on the part of Seller which through the passage of time or the giving of notice, or both, would be reasonably likely to constitute a material breach or material default of any material provision thereunder or cause the acceleration of or give rise to the right to accelerate Seller’s material obligations thereunder or result in the creation of any Encumbrance (other than Permitted Encumbrances)  on any of the Purchased Assets.  To the Knowledge of Seller, (i) no third party is in material breach of or material default of any material provision of a
+Material Commitment, and (ii) no event or omission has occurred which, through the passage of time or the giving of notice, or both, would be reasonably likely to constitute a material breach of or material default thereunder or give rise to an automatic termination, or the right of discretionary termination, thereof.  Except as set forth on Schedule 4.4(b), the execution, delivery and performance of this Agreement by Seller will not conflict with, or result in the breach of, termination of, give rise to any lien (other than a Permitted Encumbrance) or constitute a material default under, or require the consent of any other party to, any Material Commitments to which Seller is a party or by which Seller or any of the Purchased Assets are bound.  Seller has delivered or made available to Buyer true and correct copies of each of the Material Commitments, each as amended to date, as listed on Schedule 4.4(a).
+ 
+4.5         Insurance.  Schedule 4.5 annexed hereto sets forth the insurance policies and coverage’s maintained by Seller with respect to its business, operations, properties and assets, including, without limitation, directors and officers and errors and omissions coverages.  All such insurance is in full force and effect in all material respects, and no notice of cancellation or termination, or reduction of coverage or intention to cancel, terminate or reduce coverage, has been received by Seller with respect to any policy for
+such insurance.  Seller has not failed to give any notice or present any material claim relating to the Assets under any insurance policy listed on Schedule 4.5 in a timely fashion.
+ 
+4.6         Litigation; Warranty Claims.
+ 
+(a)           Except as set forth in Schedule 4.6(a), there are no judicial, administrative or arbitration hearings, lawsuits, actions, claims, investigations, inquiries or proceedings now pending or, to the Knowledge of Seller, threatened against Seller or, as to the Assets specifically, the Shareholders or either of them. Seller has no Knowledge of any basis for the convening of any such hearing or proceeding or the pursuit of any such lawsuit, action, claim, investigation or inquiry.  Seller is has not received notice that it is subject to any outstanding Governmental Order of any Governmental Authority.
+ 
+(b)          Schedule 4.6(b) annexed hereto sets forth all actions, claims, that Seller has or may have in connection with the Assets as of the date hereof.
+ 
+
+
+  
+
+
+5
+
+
+
+
+
+  
+
+
+ 
+4.7         Compliance with Law; Licenses; Permits.  Seller has all Governmental Approvals necessary for the conduct of its business as presently conducted, all of which are listed on Schedule 4.7 annexed hereto.  The Seller is, and has been since October 15, 2008 in compliance with all material Laws and requirements in connection with the development, conduct, ownership, use, occupancy or operation of the Assets, and the Seller has not received written notice at any time since October 15, 2008
+of any violation of any material Law in connection with the conduct, ownership, use, occupancy or operation of the Assets. To the Knowledge of Seller, no Governmental Authority has proposed or is considering any Legal Requirement that may affect Seller, Seller’s properties, assets (including the Purchased Assets), operations (including the Assets), or Seller’s rights thereto, except to the extent that any such Legal Requirement, if adopted or otherwise put into effect, individually or in the aggregate, will not have a Material Adverse Effect on Seller.
+ 
+4.8         Governmental Consents and Approvals.  The execution, delivery and performance of this Agreement by Seller and the consummation by Seller of the transactions contemplated hereby do not and will not require any material consent, approval, permit, authorization or other order of, action by, filing with or notification to, any Governmental Authority, except (a) as described in Schedule 4.8, (b) where failure to obtain such consent, approval, authorization or action, or to make such filing or notification, would not prevent or
+materially delay the consummation by Seller of the transactions contemplated by this Agreement or would not be reasonably likely to have a Material Adverse Effect, or (c) as may be necessary as a result of any facts or circumstances relating solely to Buyer or any of its Affiliates.
+ 
+4.9         Fees.   Except as set forth in Schedule 4.13, Seller has not paid or become obligated to pay any fee or commission to any broker, finder or intermediary in connection with the transactions contemplated hereby.  Seller shall be responsible for the fees and commissions set forth on such schedule.
+ 
+4.10       Environmental Matters.
+ 
+(a)           No Environmental Claims.  Except as set on Schedule 4.10(a) annexed hereto, (i) there are no claims, liabilities, judgments or orders, or investigations, litigation or administrative proceedings relating to any Hazardous Materials (as defined below) (collectively called “Environmental Claims”), now pending or, to the Knowledge of Seller, threatened against Seller or relating to any real property currently or formerly owned, leased or operated by Seller (the “Real
+Property”); (ii) neither Seller nor, to Seller’s Knowledge, any other Person has caused or permitted any Hazardous Material to be used, generated, reclaimed, transported, released, treated, stored or disposed of in a manner which could form the basis for any Environmental Claim against Seller or any subsequent owner or operator of the Real Property; and (iii) Seller has not assumed (by contract or by operation of law) any liability of any person for cleanup, remediation, compliance or required capital expenditures in connection with any Environmental Claim.
+ 
+(b)           Storage of Hazardous Materials.  Except as set forth on Schedule 4.10(b) annexed hereto, no Hazardous Materials are or were stored or otherwise located, and no underground storage tanks or surface impoundments are or were located, on the Real Property, other than in a manner which is in compliance with all applicable Environmental Laws; and no part of such Real Property, including the groundwater located thereon, is presently contaminated by Hazardous Materials in a manner which could require investigation and/or remediation pursuant to, or otherwise result in liability under, applicable Environmental
+Laws.
+ 
+
+
+  
+
+
+6
+
+
+
+
+
+  
+
+
+ 
+(c)           Compliance with Environmental Laws.  Seller has been and is currently in compliance with, and has received no notice or other communication concerning a claim related to disposal of Hazardous Materials or an alleged violation of any and all applicable  Environmental Laws, including obtaining and maintaining in effect all permits, licenses and other authorizations required by applicable Environmental Laws.
+ 
+4.11       Patents and Trademarks.  Schedule 4.12 annexed hereto sets forth a list of all patents or patent applications, copyrights and applications for copyrights.  To Seller’s Knowledge, the use of the trademarks, service marks and trade names used by Seller in the Assets (collectively, the “Proprietary Rights”) do not infringe upon the intellectual property rights of any other Person.  Schedule
+4.12 annexed hereto sets forth a list of all trade and service marks which have been registered by Seller or for which an application for registration has been filed by Seller and is pending. Nothing in this Section 4.12 constitutes a warranty or representation that any trademark or service mark will issue from any trade mark or service mark application.  Seller has not received written notice of any claim of infringement by Seller of patent, trademark, copyright or other intellectual property rights of a third party nor have any such claims been the subject of any action or proceeding involving Seller.
+ 
+ARTICLE V
+REPRESENTATIONS AND WARRANTIES OF BUYER
+ 
+Buyer represents and warrants to Seller and the Shareholders and covenants with Seller and the Shareholders that, as of the Closing:
+ 
+5.1         Organization.  Buyer is a corporation duly organized, validly existing and in good standing under the laws of the State of Nevada, and has all requisite corporate power and authority to carry on its business as it is now being conducted, and to execute, deliver and perform this Agreement and all other Transaction Agreements to which it is a party and to consummate and carry out the provisions of this Agreement and the other Transaction Agreements.
+ 
+5.2         Power and Authority; Effect of Agreement.  The execution, delivery and performance by Buyer of this Agreement and the consummation by Buyer of the transactions contemplated hereby have been duly authorized by all necessary corporate action on the part of Buyer.  Buyer is not aware of any circumstance attributable to itself or to any third-party which may prevent the execution, delivery, and performance by Buyer of this Agreement.  This Agreement has been duly and validly executed and delivered by Buyer and constitutes the
+valid and binding obligation of Buyer, enforceable against Buyer in accordance with its terms except insofar as the enforceability thereof may be limited by applicable bankruptcy, insolvency, reorganization, fraudulent conveyance, moratorium or other similar laws affecting the enforcement of creditors’ rights generally and by general principles of equity (whether considered in a proceeding in equity or at law). The execution, delivery and performance by Buyer of this Agreement and the consummation Buyer of the transactions contemplated hereby will not, with or without the giving of notice or the lapse of time, or both, conflict with or violate (a) any conflict with or violate, in any material respect, any Law or Governmental Order applicable to Buyer or (b) any provision of the Certificate of Formation or the limited liability company agreement of Buyer.
+ 
+
+
+  
+
+
+7
+
+
+
+
+
+  
+
+
+ 
+5.3         Governmental Approvals. The execution, delivery and performance of this Agreement by Buyer and the consummation by Buyer of the transactions contemplated hereby do not and will not require any material consent, approval, permit, authorization or other order of, action by, filing with or notification to, any Governmental Authority, except (a) as described in Schedule 5.3, (b) where failure to obtain such consent, approval, authorization or action, or to make such filing or notification, would not prevent or materially delay the
+consummation by Buyer of the transactions contemplated by this Agreement and would not have a Material Adverse Effect, or (c) as may be necessary as a result of any facts or circumstances relating solely to Seller or any of its Affiliates.
+ 
+5.4         Brokers.  Buyer has not retained any broker or finder or incurred any liability or obligation for any brokerage fees, commissions or finders fees with respect to this Agreement or the transactions contemplated by this Agreement or the other Transaction Agreements.
+ 
+5.5         Capitalization
+ 
+(a)           Schedule 5.5 sets forth the entire capitalization (including the identity of each equity holder and the amount of equity interests held by each such equity holder) of Buyer upon the consummation of the Closing.  Immediately following the Closing, all issued and outstanding equity interests of Buyer, including the shares, have been or will be duly authorized, validly issued and outstanding, fully paid, non-assessable shares and shall be free and clear of all pledges, liens, encumbrances and restrictions created by Buyer.  Other than as set forth in Schedule 5.5, there are no outstanding rights
+of first refusal, preemptive rights or other rights, options, warrants, conversion rights, or other agreements either directly or indirectly for the purchase or acquisition from Buyer of any of its equity interests.  Except as set forth on Schedule 5.5, there are no outstanding (a) securities directly or indirectly convertible into or exchangeable for equity interests of Buyer, (b) options or other rights to acquire, or other obligation to issue, any equity interests or securities directly or indirectly convertible into or exchangeable for equity interests of Buyer, or (c) equity appreciation rights, phantom equity interests, or similar equity rights with respect to Buyer.
+ 
+ARTICLE VI
+COVENANTS AND AGREEMENTS OF THE PARTIES
+ 
+6.1         Confidentiality.  Following the Closing, Seller and the Shareholders shall maintain in strictest confidence and not use or disclose, except as authorized by Buyer, any information of a competitively sensitive or proprietary nature regarding the Assets including but not limited to customer and prospect lists, employee information, pricing information, sales practices, business practices, financial information, intellectual property and other trade secrets
+(collectively, “Confidential Information”).  Seller and the Shareholders acknowledge that following the Closing the Confidential Information is and will be of incalculable value to Buyer, will be the exclusive property of Buyer, and has been developed at considerable expense, and that Buyer would suffer substantial damage if any of the Confidential Information is improperly disclosed or used.  Notwithstanding the foregoing, Buyer hereby acknowledges that the foregoing obligation of confidence shall not apply to (i) information that is or becomes generally available to the public other than as a result of a disclosure by Seller or the Shareholders, (ii) information that is or becomes available to Seller or the Shareholders after the Closing on a non-confidential basis prior to its disclosure by Seller or the Shareholders, and (iii) information that is required to be disclosed by Seller
+or the Shareholders, or any of their respective employees, agents, accountants, legal counsel, or other representatives or advisers as a result of any applicable law, rule, or regulation of any Governmental Authority, or as necessary to enforce the provisions of this agreement.
+ 
+
+
+  
+
+
+8
+
+
+
+
+
+  
+
+
+ 
+6.2         No Public Announcement.  Other than disclosure to their respective employees, officers, directors, shareholders, members, accountants, attorneys, agents and representatives, neither Seller, the Shareholders nor Buyer shall make a public announcement of this Agreement, its contents or the consummation of the transactions contemplated herein without the consent of the other party hereto, except to the extent required by law, and in such case will give the other party notice thereof.  Notwithstanding the foregoing, Buyer may disclose this Agreement and the transactions contemplated by this
+Agreement to lenders and other financing sources in connection with the arrangement of financing relating to the transactions contemplated by this Agreement.
+ 
+6.3         Authority.  Following the Closing, Seller acknowledges and agrees that Buyer and its officers and directors have sole and complete authority and discretion further to develop, enhance, modify, license, and to operate and manage the Assets.
+ 
+6.4         Remedies.  Seller acknowledge that the Assets are unique properties and that, in addition to all other remedies contained herein, whether at law or in equity, Buyer shall be entitled to the remedy of specific performance, plus its court costs and attorney’s fees, in the event of any breach by Seller of their respective obligations to consummate the transactions contemplated herein in the manner herein contemplated.  Neither the indemnities provided herein nor any other terms of this Agreement shall be deemed a waiver of, or constitute a limitation upon, any rights or remedies that the
+parties may have at law or equity upon a breach of this Agreement or any other document executed in connection with the transactions contemplated hereunder; provided, however, that the limitation on damages and the application of the Threshold Amount shall apply in determining damages with respect to any such remedy.
+ 
+6.5         Further Assurances.  Each party shall take such additional action and shall coordinate with the other as may be reasonably necessary or appropriate for the consummation of the transactions contemplated hereby and to carry out and effectuate the terms and conditions of this Agreement.  As may be required in connection with financing relating to the transactions contemplated by this Agreement, the parties shall agree upon a mutually acceptable appraisal firm to conduct appraisals of the Purchased Assets.  The costs of any such
+appraisals shall be paid by the Buyer.
+ 
+6.6         Survival of Covenants.  Except as otherwise set forth in this Agreement, the covenants of the parties set forth in this Article VI shall survive the Closing.
+ 
+6.7         Fictitious Names.  With respect to the Fictitious Names (as defined in Section 8.3 below), Buyer acknowledges and agrees that (i) it shall be the sole responsibility of the Buyer or its Affiliates to file or record any necessary or appropriate documents with the appropriate Governmental Authorities to obtain the rights to use such Fictitious Names and (ii) Seller’s only obligation with respect to such Fictitious Names shall be to file a Statement of Abandonment simultaneously with the Closing.  Seller
+and Shareholders acknowledge and agree that they shall have no right to use the Fictitious Names from and after the Closing.
+ 
+
+
+  
+
+
+9
+
+
+
+
+
+  
+
+
+ 
+ARTICLE VII
+PERFORMANCE AT CLOSING
+ 
+7.1         Seller’s Performance at Closing.  At or prior to the Closing hereunder, Seller shall deliver (or cause to be delivered) to Buyer the following, each of which shall be in form and substance reasonably satisfactory to Buyer and Buyer’s counsel:
+ 
+(a)           duly executed instruments of transfer (including, specifically, bills of sale of personal property, assignments of contracts and customer orders, assignments of copyrights, trademarks, patents, applications, Internet domain names and registrations and other intangible property and rights) selling, assigning, transferring and conveying to Buyer all of the Purchased Assets, free and clear of any Encumbrances;
+ 
+
+
+
+ 
+
+(b) 
+
+
+the agreements listed in Section 8.3, duly executed;
+
+
+
+ 
+
+
+
+ 
+
+(c) 
+
+
+all previously undelivered items included in the Purchased Assets;
+
+
+
+ 
+
+
+
+
+ 
+
+(d)
+
+
+UCC-1, lien, judgment and tax searches in each jurisdiction in which Seller have property, which shall disclose the existence of no Encumbrances;
+
+
+
+
+ 
+
+
+
+
+ 
+
+(e) 
+
+
+payoff letters or other evidence regarding payment and discharge of the Indebtedness; and
+
+
+
+
+ 
+
+
+
+
+ 
+
+(f)
+
+
+such other documents, instruments or certificates as Buyer or its counsel shall reasonably request in order to consummate the transactions contemplated herein.
+
+
+
+
+ 
+7.2         Buyer’s Performance at Closing.  At or prior to the Closing hereunder, Buyer shall deliver (or cause to be delivered) to Seller the following, each of which shall be in form and substance reasonably satisfactory to Seller and Seller’s counsel:
+ 
+
+
+
+ 
+
+(a) 
+
+
+the agreements listed in Section 8.4, duly executed; and
+
+
+
+ 
+
+
+
+
+ 
+
+(b) 
+
+
+such other documents, instruments or certificates as Seller or its counsel shall reasonably request in order to consummate the transactions contemplated herein.
+
+
+
+
+ 
+7.3         Deliveries by Seller.  At the Closing, Seller shall deliver the following items, duly executed by Seller as applicable, all of which shall be in form and substance reasonably acceptable to Seller and Seller’s counsel:
+ 
+
+
+
+
+ 
+
+(a) 
+
+
+the Bill of Sale substantially in the form attached hereto as Exhibit 8.3(b);
+
+
+
+
+ 
+
+
+  
+
+
+10
+
+
+
+
+
+  
+
+
+ 
+
+
+
+
+  
+
+
+(b)
+
+
+Seller shall file a Statement of Abandonment with each applicable Governmental Authority for each fictitious name used in connection with the Assets that is set forth on Schedule 8.3(b) (the “Fictitious Names”);
+
+
+
+ 
+
+
+
+
+  
+
+
+(c)
+
+
+the Software Assignment Agreement and all software code, URLS, all other embodiments or evidences of the intellectual property of the Seller and
+
+
+
+ 
+7.4         Deliveries by Buyer.  At the Closing, Buyer shall deliver the following items, duly executed by Buyer, as applicable, all of which shall be in form and substance reasonably acceptable to Buyer and Buyer’s counsel:
+ 
+(a)           the latest 10k and 10q for the Buyer;
+ 
+(b)           A common stock certificate(s) representing the transaction shares.
+ 
+ARTICLE VIII
+INDEMNIFICATION
+ 
+8.1         Survival; Indemnification.
+ 
+(a)           Except as provided in Section 8.1(b), this Agreement and the covenants, representations and warranties, indemnities, rights and obligations of the parties hereunder shall survive the Closing and any investigation as Buyer may make and remain in full force and effect without time limit.  The consummation or Closing of this transaction in the face of any known breach of any obligation, warranty or representation contained herein shall be, or be deemed or construed to be, a waiver of such breach, departure, or variation.
+ 
+(b)           The representations and warranties contained in Article IV and V hereof shall expire eighteen (18) months after the Closing Date, provided that (i) claims, if any, asserted in writing prior to the expiration of the representation or warranty to which they are related shall survive until finally resolved and satisfied in full and (ii) claims, if any, (A) involving the representations set forth in Sections 4.12 (Taxes) and 4.14 (Environmental), (B) relating to title or any alleged ownership of or interest in the Purchased Assets, or (C) based on intentional misrepresentation, shall survive until 30 days after the expiration of the applicable statue of limitations with respect to such matter.
+ 
+(c)           Seller covenant and agree to indemnify, defend and hold harmless Buyer, its officers, directors, employees, shareholders, successors and assigns (each, a “Buyer Indemnified Party” and collectively, the “Buyer Indemnified Parties”), from and against any and all losses, claims, liabilities, proceedings, demands, actions, assessments, judgments, damages, costs or expenses including, but not limited to reasonable attorney’s fees, and other expenses (collectively, “Losses”), arising out of or resulting from (i) any
+breach by Seller or the Shareholders of its or their representations or warranties under this Agreement, (ii) the nonperformance or breach of any of Seller’s or the Shareholders’ agreements, covenants or obligations under the Transaction Agreements, (iii) the Excluded Liabilities, or (iv) the imposition on Buyer of liability by reason of Seller’s failure to comply with any applicable state bulk transfer law.
+ 
+
+
+  
+
+
+11
+
+
+
+
+
+  
+
+
+ 
+(d)           Buyer agree to indemnify, defend and hold harmless Seller and Shareholders, and their respective its officers, directors, employees, shareholders, successors and assigns (each, a “Seller Indemnified Party” and collectively the “Seller Indemnified Parties”) from and against any and all Losses arising out of or resulting from losses arising out of or resulting from (i) any breach by Buyer of its representations or warranties hereunder, (ii) the nonperformance or breach of any of Buyer’s agreements, covenants or obligations under the Transaction Agreements, (iii) any and all Liabilities and
+obligations of, relating to or arising out of the ownership or operation of, the Purchased Assets or the Assets which is based on or arises out of any act or omission of Buyer occurring from and after the Closing Date, and (iv) any of the Assumed Liabilities.
+ 
+8.2         Threshold Amount; Limitation of Liability.  Neither Buyer, on one hand, nor Seller or either of the Shareholders, on the other hand, shall be entitled to indemnity under this Article VIII until the aggregate amount of all Losses incurred by the Indemnified Party (as defined in Section 9.3 below) exceeds $25,000 (the “Threshold Amount”), at which time, the Indemnifying Party (as defined in Section 9.3 below) shall be liable for all Losses, including the Threshold Amount.
+ 
+8.3         Indemnification Procedures.
+ 
+(a)           If a Buyer Indemnified Party or a Seller Indemnified Party seeks indemnification under this Article VIII, such party (the “Indemnified Party”) shall give written notice to the other party (the “Indemnifying Party”) of the facts and circumstances giving rise to the claim.  In that regard, if any proceeding, liability or obligation shall be brought or asserted by any third party which, if adversely determined, would entitle the Indemnified Party to indemnity pursuant to this Article IX, the Indemnified Party shall promptly notify the Indemnifying Party of the same in writing,
+specifying the basis of such claim and the facts pertaining thereto and the Indemnifying Party, if the Indemnifying Party so elects, shall assume and control the defense thereof (and shall consult with the Indemnified Party with respect thereto), including the employment of counsel reasonably satisfactory to the Indemnified Party and the payment of all necessary expenses; provided that, as a condition precedent to the Indemnifying Party’s right to assume control of such defense, the Indemnifying Party must first:  (i) enter into an agreement with the Indemnified Party (in form and substance reasonably satisfactory to the Indemnified Party) pursuant to which the Indemnifying Party agrees to be fully responsible for all Losses relating to such claim and unconditionally guarantees the payment and performance of any liability or obligation that may arise with respect to such claim or the facts giving rise
+to such claim for indemnification and (ii) furnish the Indemnified Party with reasonable evidence that the Indemnifying Party is and will be able to satisfy any such liability; and provided further that the Indemnifying Party shall not have the right to assume control of such defense if the claim which the Indemnifying Party seeks to assume control of (A) seeks non-monetary relief, (B) involves criminal or quasi-criminal allegations, or (C) involves Taxes.  If the Indemnifying Party is permitted to assume and control the defense and elects to do so, the Indemnified Party shall have the right to employ counsel separate from counsel employed by the Indemnifying Party in any such action and to participate in the defense thereof, but the fees and expenses of such counsel employed by the Indemnified Party shall be at the expense of the
+Indemnified Party unless (x) the employment thereof has been specifically authorized by the Indemnifying Party in writing, (y) the Indemnifying Party has been advised by counsel that a reasonable likelihood exists of a conflict of interest between the Indemnifying Party and the Indemnified Party, or (z) the Indemnifying Party has failed to assume the defense and employ counsel; in which case the fees and expenses of the Indemnified Party’s counsel shall be paid by the Indemnifying Party.
+  
+
+
+  
+
+
+12
+
+
+
+
+
+  
+
+
+ 
+(b)           In no event shall the Indemnified Party pay or enter into any settlement of any claim or consent to any judgment with respect to any claim without the prior written consent of the Indemnifying Party, which consent shall not be unreasonably withheld or delayed, if such settlement or judgment would require the Indemnifying Party to pay any amount.  The Indemnifying Party may enter into a settlement or consent to any judgment without the consent of the Indemnified Party so long as (i) such settlement or judgment involves monetary damages only and (ii) a term of the settlement or judgment is that the Person or Persons asserting such claim unconditionally release all Indemnified Parties from all liability with respect to such claim;
+otherwise the consent of the Indemnified Party shall be required in order to enter into any settlement of, or consent to the entry of a judgment with respect to, any claim, which consent shall not be unreasonably withheld or delayed.
+ 
+(c)           Each party shall cooperate and shall cause its officers and employees to cooperate in the defense or prosecution of any claim for which indemnification is sought hereunder and furnish such records, information and testimony and attend such conferences, discovery proceedings, hearings, trials, and appeals as may be reasonably requested in connection therewith.
+ 
+(d)           Payment of any undisputed, final determined amount of liability shall be made by the Indemnifying Party to the Indemnified Party within five (5) business days of the date of notice from the Indemnified Party to the Indemnifying Party that such amount is due; provided, however, that any payment obligation of Seller or the Shareholders under this Article IX shall first be satisfied (and deemed paid) by reducing the outstanding balance of the Escrow Account and thereafter, the Promissory Note, in each case, subject to the terms and conditions of the Escrow Agreement and Promissory Note, as the case may be.
+ 
+8.4         Indemnification as Sole Remedy.  The indemnification provided for in this Article IX shall be the sole and exclusive remedy and recourse for any breach by any party of the provisions of this Agreement, including the representations and warranties contained in Article IV and Article V of this Agreement; provided, however, that in the case of intentional misrepresentation or willful misconduct, Buyer Indemnified Parties and the Seller Indemnified Parties shall have all remedies available at law or equity without giving effect to any of the limitations set forth in this Article VIII; provided
+that the limitation on damages and the application of the Threshold Amount shall apply in determining damages with respect to any such remedy.
+ 
+8.5         Mitigation.  Each Person entitled to indemnification hereunder shall take all reasonable steps to mitigate its Losses after becoming aware of any event which could reasonably be expected to give rise to any Losses that are indemnifiable or recoverable hereunder or in connection herewith.
+ 
+
+
+  
+
+
+13
+
+
+
+
+
+  
+
+
+ 
+9.6         Determination of Losses.  All indemnification payments under this Article IX shall be paid by the Indemnifying Party net of any Tax Benefits and insurance coverage that may be available to the Indemnified Party.  Losses arising out of any breach or a representation or warranty shall not include losses in the nature of incidental or consequential damages, lost profits, diminution in value, damage to reputation or goodwill or other items of a speculative natures, despite anything to the contrary in this Agreement.
+ 
+9.7         Tax Treatment of Indemnity Payments.  All indemnification payments made pursuant to this Article IX shall be deemed adjustments to the Purchase Price for all purposes.
+ 
+ARTICLE IX
+MISCELLANEOUS PROVISIONS
+ 
+9.1         Notices.  All notices, requests, demands, claims and other communications hereunder (each, a “Notice”) shall be in writing and shall be deemed duly given (i) only by courier or other means of personal service which provides written verification of receipt, (ii) by registered or certified mail return receipt requested, or (iii) by facsimile, provided that the facsimile is promptly followed by delivery of hard copy of such notice which provides written verification or receipt.  Any such Notice
+delivered by registered or certified mail shall be deposited in the United States mail with postage thereon fully prepaid, or if by courier then deposited prepaid with the courier.  All Notices shall be addressed to the parties to be served as follows:
+ 
+(a)  If to Buyer:
+Phreadz, Inc.
+Attention: Douglas Toth
+63 Main Street
+Flemington, NJ 08822
+Telephone: 908-208-0135
+Telecopy:   908-934-2526
+
+
+With a copy (not constituting notice) to:
+Dan Luciano
+Attorney –at-Law
+242A West Valley Brook Rd.
+Califon, NJ 07830
+Telephone: 908-832-5546
+Telecopy:   908-832-9601
+
+
+(b)  If to Seller:
+Zonein2, Inc.
+Attention:
+333 City Blvd West
+17th Floor. 
+Orange, CA 92868
+Telephone:  714-937-2070
+ 
+
+
+  
+
+
+14
+
+
+
+
+
+  
+
+
+ 
+Service of any Notice so made shall be deemed complete on the day of actual delivery thereof as shown by the addressee’s registry or certification receipt or other evidence of receipt, or refusal of delivery; provided, however if delivery shall occur by means other than personal delivery to the recipient, in no event shall actual delivery be deemed to have occurred prior to the following:  (i) one business day after being sent to the recipient by reputable overnight courier service (charges prepaid), (ii) one business day after being sent to the recipient by facsimile transmission or electronic mail, or (iii) four business days after being mailed to the recipient by certified or registered mail, return receipt requested and postage prepaid, and addressed to the intended recipient as
+set forth above.  Either party hereto may from time to time by Notice in writing served upon the other as aforesaid designate a different mailing address or a different or additional person to which all such notices or demands hereafter are to be addressed.
+
+
+9.2         Expenses, Taxes.  Buyer shall bear the legal fees and any and all costs and expenses not specified herein with respect to the sale and purchase of the Purchased Assets and this Agreement.  Seller and Buyer each shall each bear their own taxes or fees, of any sort imposed by a Governmental Authority on or in connection with the sale or transfer of the Assets or the Purchased Assets.
+ 
+9.3         Assignment.  This Agreement shall be binding upon, and inure to the benefit of, the respective successors and assigns of the parties hereto; provided, however, that no party shall assign any rights hereunder without the express written consent of the other party to this Agreement first having been obtained and any assignment in violation hereof shall be void and of no effect, except that Buyer may assign its rights and obligations hereunder to a wholly-owned subsidiary
+without need for such consent.
+ 
+9.4         Complete Agreement; Disclosure Schedule.  This Agreement (including the documents referred to herein), together with schedules and any exhibits hereto, sets forth the entire understanding of the parties hereto and supersedes any and all other prior agreements, covenants, arrangements, communications, representations or warranties, whether oral or written, by any officer, employee or representative of any party.  Disclosure of any matter in the Seller Disclosure Schedule shall not constitute an expression of a view that such matter is material or is required to be disclosed pursuant to this
+Agreement.  To the extent that any representation or warranty set forth in this Agreement is qualified by the materiality of the matter(s) to which the representation or warranty relates, the inclusion of any matter in the Seller Disclosure Schedule does not constitute a determination by Seller that any such matter is material.  The disclosure of any information concerning a matter in the Seller Disclosure Schedule does not imply that any other undisclosed matter that has a greater significance or value is material.
+ 
+9.5         Interpretation and Construction.  The headings of the articles and sections of this Agreement are inserted for convenience only and shall not be deemed to constitute a part hereof.  The language of all parts of this Agreement is the language of both parties hereto and shall in all cases be construed according to its fair meaning and not for or against either party.  It is the intention of the parties that this Agreement be enforced to the fullest extent permitted by law.  Therefore,
+should a court of competent jurisdiction hold any provision or clause of this Agreement, or portion thereof, to be illegal, invalid or unenforceable, the remainder of the Agreement shall not thereby be affected and shall be given full effect, without regard to the invalid portion.  Further, if any court construes any provision or clause of this Agreement, or any portion thereof, to be illegal, void or unenforceable because of the scope of such covenant or provision, it is the intention of the parties that the court shall modify such a provision to render its scope legal and enforceable and, in its modified form, such provision shall then be enforceable and shall be enforced.
+ 
+
+
+  
+
+
+15
+
+
+
+
+
+  
+
+
+ 
+9.6         Third Parties; Amendment and Termination.  Except for the indemnification rights of the Indemnified Parties as set forth in Article VIII, this Agreement shall not confer any rights or remedies upon any Person other than the parties hereto and their respective successors and permitted assigns.  No amendment of any provision of this Agreement shall be valid unless the same shall be in writing and signed by the Buyer, Seller and the Shareholders.  No waiver by any party to this Agreement of any provision of this
+Agreement or any default, misrepresentation, or breach of warranty or covenant hereunder, whether intentional or not, shall be valid unless the same shall be in writing and signed by the party making such waiver nor shall such waiver be deemed to extend to any prior or subsequent default, misrepresentation, or breach of warranty or covenant hereunder, or affect in any way any rights arising by virtue of any prior or subsequent occurrence.
+ 
+9.7         Counterparts; Severability.  The parties may execute more than one counterpart of this Agreement hereto, and each fully executed counterpart shall be deemed an original. Any term or provision of this Agreement that is invalid or unenforceable in any situation in any jurisdiction shall not affect the validity or enforceability of the remaining terms and provisions hereof or the validity or enforceability of the offending term or provision in any other situation or in any other jurisdiction.
+ 
+9.8         Jurisdiction.  The parties hereto agree that the Central District of California and Superior Court of Los Angeles County of California shall be the sole forum for the resolution of any disputes related to this Agreement or the performance by either party of its obligations hereto.  The parties consent to such exclusive jurisdiction and agree to waive and not assert any objections to such jurisdiction, including those related to forum non conveniens.  The parties hereby appoint the Secretary of the State of Nevada as
+their respective agent for the service of process relating to any such dispute.
+ 
+9.9         Governing Law.  This Agreement and any conflicts arising hereunder shall be enforced, governed and construed in accordance with the laws of the State of Nevada without reference to conflict of law principles, except the law of any other relevant state shall be applied if doing so is necessary to validate any provisions of this Agreement.
+ 
+9.10       Definitions. For purposes of this Agreement, the following terms have the meaning set forth below:
+ 
+“Affiliate” means, with respect to any specified Person, any other Person that directly or indirectly, through one or more intermediaries, Controls, is Controlled by, or is under common Control with, such specified Person.
+ 
+“Code” means the Internal Revenue Code of 1986, as amended.
+ 
+
+
+  
+
+
+16
+
+
+
+
+
+  
+
+
+ 
+“Control” (including the terms “Controlled by” and “under common Control with”), with respect to the relationship between or among two or more Persons, means the possession, directly or indirectly or as trustee, personal representative or executor, of the power to direct or cause the direction of the affairs or management of a Person, whether through the ownership of voting securities, as trustee, personal representative or executor, by contract, credit arrangement or otherwise.
+ 
+“Environmental Laws” shall mean any federal, state or local law, rule, regulation or order relating to pollution, waste disposal, industrial hygiene, land use or the protection of human health or safety, plant life or animal life, natural resources or the environment.
+ 
+“ERISA Affiliate” shall mean any person (as defined in Section 3(9) of ERISA) that is or has been a member of any group of persons described in Section 414(b), (c), (n), or (o) of the Code including Seller.
+ 
+“GAAP” means United States generally accepted accounting principles as in effect from time to time as consistently applied by the Seller from period to period prior to the Closing Date. GAAP shall include the same accounting methods, policies, practices and procedures, with consistent classifications and estimation methodologies, as were used by Seller prior to the Closing Date in preparing its year-end financial statements, and shall not include any changes in assets or liabilities (that would be inconsistent with the foregoing) as a result of purchase accounting adjustments arising from or resulting as a consequence of the transactions contemplated hereby.
+ 
+“Governmental Approval” shall mean any:  (a) permit, license, certificate, concession, approval, consent, ratification, permission, clearance, confirmation, exemption, waiver, franchise, certification, designation, rating, registration, variance, qualification, accreditation or authorization issued, granted, given or otherwise made available by or under the authority of any Governmental Authority or pursuant to any Legal Requirement; or (b) right under any contract or agreement with any Governmental Authority.
+ 
+“Governmental Authority” means any foreign, federal, national, supranational, state, provincial, local or other government, governmental, regulatory or administrative authority, agency, board, bureau, agency, instrumentality or commission or any court, tribunal, or judicial or arbitral body.
+ 
+“Governmental Order” means any order, writ, judgment, injunction, decree, stipulation, determination or award entered by or with any Governmental Authority.
+ 
+“Hazardous Materials” shall mean any of the following:  (i) substances that are defined or listed in, or otherwise classified pursuant to any applicable laws or regulations as “hazardous substances,” “hazardous materials,” “hazardous wastes,” “toxic substances” or any other formulation intended to define, list or classify substances by reason of deleterious properties such as ignitability, corrosivity, reactivity, carcinogenicity, reproductive toxicity or “EP toxicity”; (ii) oil, petroleum or petroleum synthetic gas and drilling fluids, and processed waters; (iii) wastes associated with the exploration, development or production of crude oil, natural gas or geothermal
+resources; (iv) any flammable substances or explosives or any radioactive materials; (v) asbestos in any form; or (vi) electrical equipment which contains any oil or dielectric fluid containing levels of polychlorinated biphenyls in excess of fifty parts per million.
+ 
+
+
+  
+
+
+17
+
+
+
+
+
+  
+
+
+ 
+“Knowledge” means the actual knowledge of either of the Shareholders.
+ 
+“Law” means any foreign, federal, national, supranational, state, provincial, local or similar statute, law, ordinance, regulation, rule, code, order, requirement or rule of law (including common law) in effect as of the date hereof.
+ 
+“Legal Requirement” shall mean any federal, state, local, municipal, foreign or other law, statute, legislation, constitution, principle of common law, resolution, ordinance, code, order, edict, decree, proclamation, treaty, convention, rule, regulation, permit, ruling, directive, pronouncement, requirement (licensing or otherwise), specification, determination, decision, opinion or interpretation that is, has been or may in the future be issued, enacted, adopted, passed, approved, promulgated, made, implemented or otherwise put into effect by or under the authority of any Governmental Authority.
+ 
+“Liability” means any debt, liability or obligation, whether accrued or fixed, absolute or contingent, matured or unmatured or determined or determinable, including those arising under any Law or Governmental Order and those arising under any contract, agreement, arrangement, commitment or other undertaking.
+ 
+ “Material Adverse Effect” means, with respect to any event or circumstance, an effect caused thereby or resulting therefrom that would be materially adverse the business, assets, liabilities financial condition or results of operation of the Seller or the Purchased Assets taken as a whole (in each case, as in effect immediately prior to the Closing) other than as a result of: (a) any change, event, development or effect arising from or relating to general business or economic conditions, including such conditions related to the business of Seller, (b) national or international political or social conditions, including the engagement by the United States in hostilities, whether or not pursuant to the declaration of a national
+emergency or war, or the occurrence of any military or terrorist attack upon the United States, or any of its territories, possessions, or diplomatic or consular offices or upon any military installation, equipment or personnel of the United States, (c) changes in Laws, (d) changes in accounting principals, or (d) the announcement or pendency of the transactions contemplated by this Agreement or the taking of any action contemplated by this Agreement and the other agreements contemplated hereby.
+ 
+“Ordinary Course of Operations” means the ordinary course of operations consistent with past custom and practice (including with respect to quantity and frequency).
+ 
+“Permitted Encumbrances” means (a) mechanic’s, materialmen’s and similar liens, (b) liens for Taxes (i) not yet due and payable or (ii) being contested by appropriate proceedings and disclosed on Disclosure Schedule, (c) purchase money liens and liens securing rental payments under capital lease arrangements, (d) pledges or deposits made in the Ordinary Course of Assets in connection with workers’ compensation, unemployment insurance or other similar social security legislation; (e) encumbrances, security deposits or reserves required by law or regulation or by any governmental authority or regulatory agency, (f) zoning, building codes, and other land use laws regulating the use or occupancy of any real
+property occupied by Seller or the activities conducted thereon by Seller, and (g) carrier’s liens arising in the Ordinary Course of Assets and not incurred in connection with the borrowing of money.
+ 
+
+
+  
+
+
+18
+
+
+
+
+
+  
+
+
+ 
+“Person” means an individual, a corporation, a partnership, a joint venture, a trust, an unincorporated organization or any other entity or organization, including a government, a political subdivision or an agency or instrumentality thereof.
+ 
+“Real Property” means all land, buildings, improvements and fixtures erected thereon and all appurtenances related thereto.
+ 
+“Subsidiary” of any person or entity shall mean any corporation or other business entity the majority of the voting equity (or other beneficial interests) of which, entitled to vote for the election of directors or managers (or their counterparts), is owned by such person or entity or a Subsidiary of such person or entity.
+ 
+“Taxes” shall mean means any federal, state, local, or foreign income, gross receipts, license, payroll, employment, excise, severance, stamp, occupation, premium, windfall profits, environmental, customs duties, capital stock, franchise, profits, withholding, social security (or similar), unemployment, disability, real property, personal property, sales, use, transfer, registration, value added, alternative or add-on minimum, estimated, or other tax or similar governmental charge of any kind whatsoever, including any interest, penalty or addition thereto, whether disputed or not.
+ 
+“Tax Benefit” means any deduction, amortization, exclusion from income or other allowance that reduces the amount of Tax any party to this Agreement (or any successor thereto) would have been required to pay (or increases the amount of Tax refund to which any party hereto (or any successor thereto) would have been entitled) in the absence of the breach or item giving rise to the indemnity claim.
+ 
+“Tax Returns” means any return (including estimates and extensions), declaration, report, claim for refund, or information return or statement relating to Taxes, including any schedule or attachment thereto, and including any amendment thereof, of Seller.
+ 
+“Transaction” shall mean, collectively, the transactions contemplated by this Agreement.
+ 
+“Transaction Agreements” shall mean this Agreement and all other agreements, certificates, instruments, documents and writings delivered by Buyer and/or Seller and the Shareholders in connection with the Transaction.
+ 
+“Working Capital” means current assets, minus current liabilities of the Seller (other than any Real Property Lease obligations), determined as of the Closing Date in accordance with GAAP, as consistently applied by Seller from period to period prior to the Closing Date.
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed by their duly authorized representatives as of the day and year first above written.
+ 
+
+
+  
+
+
+19
+
+
+
+
+
+  
+
+
+ 
+
+
+
+
+
+BUYER:
+
+
+SELLER:
+
+
+  
+  
+
+
+PHREADZ, INC.
+
+
+Zonein2, Inc.
+
+
+
+A Nevada Corporation
+
+
+A California Corporation
+
+
+  
+  
+
+
+By:
+
+  
+  
+
+By:
+
+  
+
+
+Name:  Douglas Toth
+
+
+Name: Anthony Cesare
+
+
+
+Its:  CEO and Chairman of the Board
+
+
+Its:  Chairman of the Board
+
+
+
+ 
+
+
+
+  
+
+
+20
+
+
+
+
+
+  
+
+
+ 
+
+Schedule(s)
+
+
+Schedule 1.1: Zonein2 “Computer Code”
+
+
+
+
+  
+
+
+1.1.1
+
+
+Registration process with e-mail notifications.
+
+
+
+
+
+
+
+  
+
+
+1.1.2
+
+
+3 (Three) distinctive profiles with enhanced privacy settings and a unique algorithm that compiles users with certain characteristics or similar fields in to one virtual yearbook.
+
+
+
+
+
+
+
+  
+
+
+1.1.3
+
+
+Internal Search engine to find contacts within the site with specific characteristics.
+
+
+
+
+
+
+
+  
+
+
+1.1.4
+
+
+Internal messaging system for users and individuals, groups or all of your contacts.
+
+
+
+
+
+
+
+  
+
+
+1.1.5
+
+
+Invitation module to invite friends and contacts from your email accounts and others social networks.
+
+
+
+
+
+
+
+  
+
+
+1.1.6
+
+
+Internal Contact management System with enhanced security and privacy settings with hide away option.
+
+
+
+
+
+
+
+  
+
+
+1.1.7
+
+
+Content management and uploading system with enhanced privacy settings private - public or share with one or many. (Ability to upload Photos, Audio files, Documents and Video)
+
+
+
+
+
+
+
+  
+
+
+1.1.8
+
+
+Change background system.
+
+
+
+
+
+
+
+  
+
+
+1.1.9
+
+
+Points/rewards internal system with built-in accounting system.
+
+
+
+
+
+
+
+  
+
+
+1.1.10
+
+
+Shopping zone store via amazon's API.
+
+
+
+
+
+
+
+  
+
+
+1.1.11
+
+
+TV Hulu API
+
+
+
+
+
+
+
+  
+
+
+1.1.12
+
+
+Internal built-in notification system (messages, updates, comments, invitations, calls, chats, points) and email notifications to external email accounts.
+
+
+
+
+
+
+
+  
+
+
+1.1.13
+
+
+Fully web-based text/audio/video chat with contacts notification and privacy settings.
+
+
+
+
+
+
+
+  
+
+
+1.1.14
+
+
+Text & photo wall/stream system (Completed about 70% of the streaming/newsfeed technology)
+
+
+
+
+
+Schedule 1.1(a): “Tangible Personal Property”
+None
+
+
+Schedule 1.1 (c):  “Proprietary Rights”
+Utility Patents:  Marketing and Advertising Incentives System
+Provisional Patents: Multiple Profile based content creation
+Seamless Communication Modality Switch
+Registered Trademarks: “Empowered by You.”
+Trade names registrations:  Zonein2  and Zonein2.com
+copyrights: Aesthetic design and architecture of the zonein2.com website.
+Domain names: zonein2.com zonein2.net
+
+
+Schedule 1.1(d): “Government Approvals”
+Registered Trademarks: “Empowered by You.”  (Approved)
+Utility Patents:  Marketing and Advertising Incentives System (Pending Approval)
+Provisional Patents: Multiple Profile based content creation (Pending Approval)
+Seamless Communication Modality Switch (Pending Approval)
+ 
+Schedule 1.2(e):  “Excluded Assets”
+
+The domain name Zonebox with the all mock-ups and graphic designs. This concept is one where it serves as a virtual private network with social tools for small, mid-sized and large companies where it allows employees to create, share and edit files. The concept is to have a cloud-based real-time communication and collaboration system among a private network.
+ 
+
+
+  
+
+
+21
+
+
+
+
+
+  
+
+
+ 
+Phreadz/Zonein2 and Zonebox (or however the final domain/business name happens to be will share the code to the  video chat system.
+ 
+Schedule 4.3(a): “Jurisdictions of the seller”
+California
+
+
+Schedule 4.4(a): “Encumbrances”
+None
+
+
+Schedule 4.6(b):  “Defects to the Asset”
+None
+
+
+Schedule 4.5: “Insurance”
+None
+
+
+Schedule 4.6(a):  “Litigation; Warranty Claims”
+None
+
+
+Schedule 4.6(b):  “Action; Claims”
+None
+
+
+Schedule 4.7:  “Licenses; Permits”
+None
+
+
+Schedule 4.8:  “Consents”
+None
+
+
+Schedule 4.13: “Fees”
+None
+
+
+Schedule 4.10: “Environmental Matters”
+None
+
+
+Schedule 4.10(b): Storage of Hazardous Materials
+None 
+
+
+Section 4.11:  “Affiliates’ Relationships to Seller
+None
+ 
+
+
+  
+
+
+22
+
+
+
+
+
+  
+
+
+ 
+Schedule 4.12:  “Patents and Trademarks”
+Utility Patents:  Marketing and Advertising Incentives System
+Provisional Patents: Multiple Profile based content creation
+Seamless Communication Modality Switch
+Registered Trademarks: “Empowered by You.”
+Trade names registrations:  Zonein2  and Zonein2.com
+Copyrights: Aesthetic design and architecture of the zonein2.com website.
+Domain names: zonein2.com zonein2.net
+
+
+Schedule 5.3:  “Governmental Approvals” (By Phreadz)
+None
+Schedule 5.5: “Capitalization” (By Phreadz)
+525,000,000 authorized with 70,741,376
+
+
+Exhibit 8.3(b): “Bill of Sale” (By Phreadz): 
+By Corporate Counsel, Dan Luciano.
+
+
+Schedule 8.3(b): “Fictitious Names”
+None
+ 
+
+
+  
+
+
+23
+
+
+
+
+
+  
+
+
+
+
+

@@ -1,0 +1,218 @@
+
+EX-2.1
+2
+e612662_ex2-1.htm
+
+Unassociated Document
+
+
+
+Exhibit 2.1
+ 
+AGREEMENT AND PLAN OF MERGER
+ 
+This AGREEMENT AND PLAN OF MERGER (hereinafter called this "Agreement"), dated as of July 4, 2014, is entered into between UHF Incorporated, a Delaware corporation (the "Company") and Adamant DRI Processing and Minerals Group, a Nevada corporation and a wholly owned subsidiary of the Company ("Adamant").
+ 
+Preliminary Statement
+
+
+The Company, whose shares of common stock are registered under Section 12(g) of the Securities Act of 1934, as amended (the “Exchange Act”), desires to reincorporate as a Nevada corporation.  The Company has formed Adamant in order to effect the reincorporation.
+ 
+The board of directors of each of the Company and Adamant deems it advisable and in the best interests of such corporations and their respective stockholders, that the Company be merged with and into Adamant, upon the terms and subject to the conditions herein stated, and that Adamant be the surviving corporation (the "Reincorporation Merger").  
+ 
+                 NOW, THEREFORE, in consideration of the premises and of the agreements of the parties hereto contained herein, the parties hereto agree as follows:
+ 
+ARTICLE I
+THE REINCORPORATION MERGER; EFFECTIVE TIME
+ 
+        1.1.    The Reincorporation Merger.    Upon the terms and subject to the conditions set forth in this Agreement, at the Effective Time (as defined in Section 1.2), the Company shall be merged with and into Adamant whereupon the separate existence of the Company shall cease. Adamant shall be the surviving corporation (sometimes hereinafter referred to as the "Surviving Corporation") in the Reincorporation Merger and shall continue to be governed by the laws of the State of Nevada. The Reincorporation Merger shall have the effects specified in the General Corporation Law of the State of Delaware, as amended (the "DGCL") and in the Chapter 78 of the Nevada Revised Statutes, as amended (the "NRS"), and the Surviving Corporation shall succeed, without other transfer, to all of the assets and property (whether real, personal or mixed), rights, privileges, franchises, immunities and powers of the Company, and shall assume and be subject to all of the duties, liabilities, obligations and restrictions of every kind and description of the Company, including, without limitation, all outstanding indebtedness of the Company.
+ 
+        1.2.    Effective Time.    Provided that the conditions set forth in Section 5.1 have been fulfilled in accordance with this Agreement and that this Agreement has not been terminated or abandoned pursuant to Section 6.1, on the date of the closing of the Reincorporation Merger, the Company and Adamant shall cause Articles of Merger to be executed and filed with the Office of the Secretary of State of Nevada (the "Nevada Articles of Merger") and a Certificate of Merger to be executed and filed with the Secretary of State of Delaware (the "Delaware Certificate of Merger"). The Reincorporation Merger shall become effective upon the date and time specified in the Nevada Articles of Merger and the Delaware Certificate of Merger (the "Effective Time").
+ 
+ARTICLE II
+CHARTER AND BYLAWS OF THE SURVIVING CORPORATION
+ 
+        2.1.    The Certificate of Incorporation.    The articles of incorporation of Adamant in effect at the Effective Time shall be the certificate of incorporation of the Surviving Corporation, until amended in accordance with the provisions provided therein or applicable law.
+ 
+        2.2.    The Bylaws.    The bylaws of Adamant in effect at the Effective Time shall be the bylaws of the Surviving Corporation, until amended in accordance with the provisions provided therein or applicable law.
+ 
+
+
+  
+
+
+  
+
+
+
+
+
+  
+
+
+ 
+ARTICLE III
+OFFICERS AND DIRECTORS OF THE SURVIVING CORPORATION
+ 
+        3.1.    Officers.    The officers of Adamant at the Effective Time shall, from and after the Effective Time, be the officers of the Surviving Corporation, until their successors have been duly elected or appointed and qualified or until their earlier death, resignation or removal.
+ 
+        3.2.    Directors.    The directors of Adamant at the Effective Time shall, from and after the Effective Time, be the directors of the Surviving Corporation, until their successors have been duly elected or appointed and qualified or until their earlier death, resignation or removal.
+ 
+ARTICLE IV
+EFFECT OF MERGER ON CAPITAL STOCK
+
+
+        4.1.    Effect of Merger on Capital Stock.    At the Effective Time, as a result of the Reincorporation Merger and without any action on the part of the Company, Adamant or the stockholders of the Company:
+ 
+(a)   Each share of common stock of the Company, par value $0.001, other than shares ("Dissenting Shares") that are owned by shareholders ("Dissenting Stockholders") exercising dissenters' rights pursuant to Section 262 of the DGCL outstanding immediately prior to the Effective Time, shall be converted (without the surrender of stock certificates or any other action) into one fully paid and non-assessable share of common stock, par value $0.001, of Adamant ("Nevada common stock"), with the same rights, powers and privileges as the shares so converted and all shares of common stock of the Company shall be cancelled and retired and shall cease to exist.
+ 
+(b)   Each option, warrant, or other security of the Company issued and outstanding immediately prior to the Effective Time shall be (i) converted into and shall be an identical security of Adamant, and (ii) in the case of securities to acquire common stock, converted into the right to acquire the number of shares of Nevada common stock equal to the number of shares of Delaware common stock that were acquirable pursuant to such option, warrant, or other security at the Effective Date.  The same number of shares of Nevada common stock shall be reserved for purposes of the exercise of such options, warrants, or other securities as is equal to the number of shares of the common stock so reserved as of the Effective Time.
+ 
+ (c)   Each share of Nevada common stock owned by the Company shall no longer be outstanding and shall be cancelled and retired and shall cease to exist.
+ 
+          4.2.    Certificates.    At and after the Effective Time, all of the outstanding certificates which immediately prior thereto represented shares of Delaware common stock (other than Dissenting Shares), or options, warrants, or other securities of the Company shall be deemed for all purposes to evidence ownership of and to represent a number of shares of Nevada common stock equal to the number of shares of Delaware common stock represented thereby or that were acquirable pursuant to such options, warrants, or other securities of Adamant, as the case may be, into which the shares of common stock, options, warrants, or other securities of the Company represented by such certificates have been converted as herein provided and shall be so registered on the books and records of the Surviving Corporation or its  transfer agent. The registered owner of any such outstanding certificate shall, until such certificate shall have been surrendered for transfer or otherwise accounted for to the Surviving Corporation or its transfer agent, have and be entitled to exercise any voting and other rights with respect to, and to receive any dividends and other distributions upon, the shares of Delaware common stock, options, warrants, or other securities of Adamant, as the case may be, evidenced by such outstanding certificate, as above provided.
+ 
+         4.3    Dissenters' Rights.    No Dissenting Stockholder shall be entitled to shares of Nevada common stock under this Article IV unless and until the holder thereof shall have failed to perfect or shall have effectively withdrawn or lost such holder's right to dissent from the Reincorporation Merger under Section 262 of the DGCL,
+ 
+
+
+  
+
+
+  
+
+
+
+
+
+  
+
+
+ 
+and any Dissenting Stockholder shall be entitled to receive only the payment provided by Section 262 of the DGCL with respect to Dissenting Shares owned by such Dissenting Stockholder (“Dissenter Rights”). If any person or entity who otherwise would be deemed a Dissenting Stockholder shall have failed to properly perfect or shall have effectively withdrawn or lost the right to dissent with respect to any shares which would be Dissenting Shares but for that failure to perfect or withdrawal or loss of the right to dissent, such Dissenting Shares shall thereupon be treated as though such Dissenting Shares had been converted into shares of Nevada common stock pursuant to Section 4.1 hereof.
+ 
+ARTICLE V
+CONDITIONS
+ 
+        5.1.    Shareholder Approval of Reincorporation Merger.    The respective obligation of each party hereto to effect the Reincorporation Merger is subject to approval of this Agreement and the transactions contemplated hereby by the holders of a majority of the outstanding shares of the common stock of the Company pursuant to Section 228 of the DGCL at the Company’s 2013 annual meeting of stockholders.
+ 
+        5.2    Proxy Statement.  The Company shall file with the Securities and Exchange Commission and distribute to its stockholders a proxy statement pursuant to Regulation 14A of the Exchange Act soliciting proxies “for” approval of this Agreement and the Reincorporation Merger at the Company’s 2013 annual meeting of stockholders, which proxy statement shall discuss the terms of the Reincorporation Merger and advise stockholders of their Dissenter’s Rights.
+ 
+ARTICLE VI
+TERMINATION
+ 
+        6.1.    Termination.    This Agreement may be terminated, and the Reincorporation Merger may be abandoned, at any time prior to the Effective Time, whether before or after approval of this Agreement by the stockholders of the Company, if the board of directors of the Company determines for any reason, in its sole judgment and discretion, that the consummation of the Reincorporation Merger would be inadvisable or not in the best interests of the Company and its stockholders. In the event of the termination and abandonment of this Agreement, this Agreement shall become null and void and have no effect, without any liability on the part of either the Company or Adamant, or any of their respective stockholders, directors or officers.
+
+
+ARTICLE VII
+MISCELLANEOUS AND GENERAL
+ 
+        7.1.    Modification or Amendment.    Subject to the provisions of applicable law, at any time prior to the Effective Time, the parties hereto may modify or amend this Agreement; provided, however, that an amendment made subsequent to the approval of this Agreement by the holders of common stock of the Company shall not (i) alter or change the amount or kind of shares and/or rights to be received in exchange for or on conversion of all or any of the shares or any class or series thereof of the Company, (ii) alter or change any provision of the articles of incorporation of the Surviving Corporation to be effected by the Reincorporation Merger, or (iii) alter or change any of the terms or conditions of this Agreement if such alteration or change would adversely affect the holders of any class or series of capital stock of any of the parties hereto.
+
+
+        7.2.    Counterparts.    This Agreement may be executed in any number of counterparts, each such counterpart being deemed to be an original instrument, and all such counterparts shall together constitute the same agreement.
+ 
+        7.3.    Governing Law.    This Agreement shall be deemed to be made in and in all respects shall be interpreted, construed and governed by and in accordance with the laws of the State of Delaware, without regard to the conflict of law principles thereof.
+ 
+
+
+  
+
+
+  
+
+
+
+
+
+  
+
+
+ 
+        7.4.    Entire Agreement.    This Agreement constitutes the entire agreement and supersedes all other prior agreements, understandings, representations and warranties both written and oral, among the parties, with respect to the subject matter hereof.
+ 
+        7.5.    No Third Party Beneficiaries.    This Agreement is not intended to confer upon any person other than the parties hereto any rights or remedies hereunder.
+ 
+        7.6.    Severability.    The provisions of this Agreement shall be deemed severable and the invalidity or unenforceability of any provision shall not affect the validity or enforceability of the other provisions hereof. If any provision of this Agreement, or the application thereof to any person or any circumstance, is determined by any court or other authority of competent jurisdiction to be invalid or unenforceable, (a) a suitable and equitable provision shall be substituted therefor in order to carry out, so far as may be valid and enforceable, the intent and purpose of such invalid or unenforceable provision and (b) the remainder of this Agreement and the application of such provision to other persons or circumstances shall not be affected by such invalidity or unenforceability, nor shall such invalidity or unenforceability affect the validity or enforceability of such provision, or the application thereof, in any other jurisdiction.
+ 
+        7.7.    Headings.    The headings therein are for convenience of reference only, do not constitute part of this Agreement and shall not be deemed to limit or otherwise affect any of the provisions hereof.
+ 
+IN WITNESS WHEREOF, this Agreement has been duly executed and delivered by the duly authorized officers of the parties hereto as of the date first written above.
+ 
+
+
+
+  
+  
+
+UHF Incorporated.
+a Delaware corporation
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+By:
+
+
+ /s/ Changkui Zhu  
+
+  
+
+  
+  
+  
+
+Changkui Zhu
+Chief Executive Officer
+
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+Adamant DRI Processing and Minerals Group
+a Nevada corporation
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+By:
+
+
+ /s/ Changkui Zhu  
+
+  
+
+  
+  
+  
+
+Changkui Zhu
+Chief Executive Officer
+
+  
+
+
+ 
+
+

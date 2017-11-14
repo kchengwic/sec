@@ -1,0 +1,1156 @@
+
+EX-2.1
+2
+q1100165_ex2-1.htm
+AGREEMENT AND PLAN OF MERGER
+
+Unassociated Document
+
+
+
+ 
+
+_____________________________________________________
+ 
+AGREEMENT OF MERGER AND
+PLAN OF REORGANIZATION
+_____________________________________________________
+ 
+BY AND AMONG
+ 
+BULLFROG GOLD CORP.
+ 
+BULLFROG GOLD ACQUISITION CORP.
+ 
+and
+ 
+STANDARD GOLD CORP.
+ 
+ 
+ 
+Dated as of September 30, 2011
+ 
+
+
+  
+
+
+- 1 -
+
+
+
+
+
+  
+
+
+ 
+AGREEMENT OF MERGER AND PLAN OF REORGANIZATION
+ 
+THIS AGREEMENT OF MERGER AND PLAN OF REORGANIZATION (this “Agreement”) is made and entered into on September 30, 2011, by and among Bullfrog Gold  Corp., a Delaware corporation (“Parent”), Bullfrog Gold Acquisition Corp., a Delaware corporation (“Acquisition Corp.”), which is a wholly-owned subsidiary of Parent, and Standard Gold Corp., a Nevada corporation (the “Company”).
+ 
+W I T N E S S E T H :
+ 
+WHEREAS, the Board of Directors of each of Acquisition Corp., Parent and the Company have each determined that it is fair to and in the best interests of their respective corporations and stockholders for Acquisition Corp. to be merged with and into the Company (the “Merger”) upon the terms and subject to the conditions set forth herein; and
+ 
+WHEREAS, the Board of Directors of each of Parent, Acquisition Corp. and the Company have approved the Merger in accordance with the General Corporation Law of the State of Delaware (the “DGCL”), the Nevada Revised Statutes (the “NRS”) and upon the terms and subject to the conditions set forth herein, in the Delaware Certificate of Merger, attached hereto as Exhibit A and the Nevada Articles of Merger, (the “Articles of Merger”); and
+ 
+WHEREAS, the requisite stockholders of the Company (the “Stockholders”) and Parent have each approved this Agreement, the Certificate of Merger and the Articles of Merger and the transactions contemplated and described hereby and thereby, including, without limitation, the Merger, and Parent, as the sole stockholder of Acquisition Corp., has approved by written consent pursuant to Section 228(a) of the DGCL, this Agreement, the Certificate of Merger and the transactions contemplated and described hereby and thereby, including, without limitation, the Merger; and
+ 
+WHEREAS, the parties hereto intend that the Merger contemplated herein shall qualify as a reorganization within the meaning of Section 368(a)(1)(A) of the Internal Revenue Code of 1986, as amended (the “Code”), by reason of Section 368(a)(2)(E) of the Code.
+ 
+NOW, THEREFORE, in consideration of the mutual agreements and covenants hereinafter set forth, the parties hereto agree as follows:
+ 
+ARTICLE I.
+THE MERGER
+ 
+Section 1.01                      Merger.  Subject to the terms and conditions of this Agreement, the Certificate of Merger and the Articles of Merger, Acquisition Corp. shall be merged with and into the Company in accordance with Section 252 of the DGCL and Chapter 92A of the NRS. At the Effective Time (as defined below), the separate legal existence of Acquisition Corp. shall cease, and the Company shall be the surviving corporation in the Merger (sometimes hereinafter referred to as the “Surviving Corporation”) and shall continue its corporate existence under the laws of the State of Nevada under the name “Standard Gold Corp.”
+ 
+
+
+  
+
+
+ 
+
+
+
+
+
+  
+
+
+ 
+Section 1.02                      Effective Time.  The Merger shall become effective upon the filing of the Certificate of Merger with the Secretary of State of the State of Delaware in accordance with Section 251(c) of the DGCL and the filing of the Articles of Merger with the Secretary of State of Nevada in accordance with Chapter 92A of the NRS. The time at which the Merger shall become effective as aforesaid is referred to hereinafter as the “Effective Time.”
+ 
+Section 1.03                      Closing. The closing of the Merger (the “Closing”) shall occur concurrently with the Effective Time (the “Closing Date”). The Closing shall occur at the offices of Sichenzia Ross Friedman Ference LLP referred to in Section 10.01 hereof. At the Closing, all of the documents, certificates, agreements, opinions and instruments referenced in Article VII will be executed and delivered as described therein. At the Effective Time, all actions to be taken at the Closing shall be deemed to be taken simultaneously.
+ 
+Section 1.04                      Certificate of Incorporation, By-Laws, Directors and Officers.
+ 
+(a)           The Articles of Incorporation of the Company, as in effect immediately prior to the Effective Time, attached as Exhibit B hereto, as amended by the Certificate of Merger, shall be the Articles of Incorporation of the Surviving Corporation from and after the Effective Time until amended in accordance with applicable law and such Articles of Incorporation.
+ 
+(b)           The By-Laws of the Company, as in effect immediately prior to the Effective Time, attached as Exhibit C hereto, shall be the By-Laws of the Surviving Corporation from and after the Effective Time until amended in accordance with applicable law, the Articles of Incorporation of the Surviving Corporation and such By-Laws.
+ 
+(c)           The directors and officers of the Parent prior to the Closing Date shall be the directors and officers of the Parent subsequent to the Closing Date until his or her respective office or offices from and after the Effective Time until his or her successor shall have been elected and shall have qualified in accordance with applicable law, or as otherwise provided in the Articles of Incorporation or By-Laws of the Surviving Corporation or the Certificate of Incorporation or By-Laws of Parent, as the case may be.
+ 
+Section 1.05                      Assets and Liabilities. At the Effective Time, the Surviving Corporation shall possess all the rights, privileges, powers and franchises of a public as well as of a private nature, and be subject to all the restrictions, disabilities and duties of each of Acquisition Corp. and the Company (collectively, the “Constituent Corporations”); and all the rights, privileges, powers and franchises of each of the Constituent Corporations, and all property, real, personal and mixed, and all debts due to any of the Constituent Corporations on whatever account, as well as all other things in action or belonging to each of the Constituent Corporations, shall be vested in the Surviving Corporation; and all property, rights, privileges, powers and franchises, and all and every other interest shall be thereafter as effectively the property of the Surviving Corporation as they were of the several and respective Constituent Corporations, and the title to any real estate vested by deed or otherwise in either of such Constituent Corporations shall not revert or be in any way impaired by the Merger; but all rights of creditors and all liens upon any property of any of the Constituent Corporations shall be preserved unimpaired, and all debts, liabilities and duties of the Constituent Corporations shall thenceforth attach to the Surviving Corporation, and may be enforced against it to the same extent as if said debts, liabilities and duties had been incurred or contracted by it.
+ 
+
+
+  
+
+
+- 2 -
+
+
+
+
+
+  
+
+
+ 
+Section 1.06                      Manner and Basis of Converting Shares.
+ 
+(a)           At the Effective Time:
+ 
+(i)           each share of common stock, par value $0.0001 per share of Acquisition Corp. that shall be outstanding immediately prior to the Effective Time shall, by virtue of the Merger and without any action on the part of the holder thereof, be converted into the right to receive one (1) share of common stock, $0.0001 par value, of the Surviving Corporation, so that at the Effective Time, Parent shall be the holder of all of the issued and outstanding shares of the Surviving Corporation;
+ 
+(ii)           each share of common stock, $0.0001 par value, of the Company (the “Company Common Stock”) beneficially owned by the Stockholders listed on Schedule 1.06(a)(ii) (other than (A) shares of Company Common Stock as to which appraisal rights are perfected pursuant to the applicable provisions of the NRS and not withdrawn or otherwise forfeited and (B) shares of Company Common Stock set forth in Sections 1.06(a)(iii) hereof), shall, by virtue of the Merger and without any action on the part of the holders thereof, be converted into the right to receive one (1) share of common stock, par value $0.001 per share, of Parent (the “Parent Common Stock”), with fractional shares of Parent Common Stock rounded up or down to the nearest whole share except that each share Company Common Stock owned by certain of the Stockholders noted on Schedule 1.06(a)(ii) shall receive, in lieu of Parent Common Stock, an equal number of shares of Parent’s Series A Convertible Preferred Stock (“Series A Preferred Stock”) for each share of Company Common Stock held, which shall be convertible into Parent Common Stock on a 1 for 1 basis; and
+ 
+(iii)           each share of Company Common Stock held in the treasury of the Company immediately prior to the Effective Time shall be cancelled in the Merger and cease to exist.
+ 
+(b)           After the Effective Time, there shall be no further registration of transfers on the stock transfer books of the Surviving Corporation of the shares of Company Common Stock that were outstanding immediately prior to the Effective Time.
+ 
+Section 1.07                      Surrender and Exchange of Certificates.
+ 
+Promptly after the Effective Time and upon (a) surrender of a certificate or certificates representing shares of Company Common Stock that were outstanding immediately prior to the Effective Time or an affidavit and indemnification in form reasonably acceptable to counsel for Parent stating that such Stockholder has lost its certificate or certificates or that such have been destroyed or upon receipt by the Parent of a list of Stockholders for whom shares of Company Common Stock held were un-certificated and (b) delivery of a Letter of Transmittal (as described in Article IV hereof), Parent shall issue to each record holder of Company Common Stock surrendering such certificate, certificates or affidavit and Letter of Transmittal, a certificate or certificates registered in the name of such Stockholder representing the number of shares of Parent Common Stock that such Stockholder shall be entitled to receive as set forth in Sections 1.06(a)(ii) hereof. Until the certificate, certificates, affidavit or certified list of Stockholders is or are surrendered together with the Letter of Transmittal as contemplated by this Section 1.07 and Article IV hereof, each certificate or affidavit that immediately prior to the Effective Time represented any outstanding shares of Company Common Stock shall be deemed at and after the Effective Time to represent only the right to receive upon surrender as aforesaid the Parent Common Stock specified in Schedule 1.06(a)(ii) for the holder thereof or to perfect any rights of appraisal that such holder may have pursuant to the applicable provisions of the NRS.
+ 
+
+
+  
+
+
+- 3 -
+
+
+
+
+
+  
+
+
+ 
+Section 1.08                      Parent Stock.  Parent agrees that it will cause the Parent Common Stock (or Series A Preferred Stock, as the case may be) into which the Company Common Stock is converted at the Effective Time pursuant to Sections 1.06(a)(ii) to be available for such purposes. Parent further covenants that immediately following the Effective Time, Parent will effect cancellations of certain of its outstanding shares of Parent Common Stock and that there will be no more than 11,000,000 pre-Merger shares of Parent Common Stock issued and outstanding, and that no other pre-Merger common or preferred stock or equity securities or any options, warrants, rights or other agreements or instruments convertible, exchangeable or exercisable into common or preferred stock or other equity securities shall be issued or outstanding, except as described herein.
+ 
+Section 1.09                      Operation of Surviving Corporation.  The Company acknowledges that upon the effectiveness of the Merger, and the material compliance by Parent and Acquisition Corp. with their respective duties and obligations hereunder, Parent shall have the absolute and unqualified right to deal with the assets and business of the Surviving Corporation as its own property without limitation on the disposition or use of such assets or the conduct of such business.
+ 
+Section 1.10                      Further Assurances.  From time to time, from and after the Effective Time, as and when reasonably requested by Parent, the proper officers and directors of the Company as of the Effective Time shall, for and on behalf and in the name of the Company or otherwise, execute and deliver all such deeds, bills of sale, assignments and other instruments and shall take or cause to be taken such further actions as Parent, Acquisition Corp. or their respective successors or assigns reasonably may deem necessary or desirable in order to confirm or record or otherwise transfer to the Surviving Corporation title to and possession of all of the properties, rights, privileges, powers, franchises and immunities of the Company or otherwise to carry out fully the provisions and purposes of this Agreement and the Certificate of Merger.
+ 
+ARTICLE II.
+REPRESENTATIONS AND WARRANTIES OF THE COMPANY
+ 
+The Company hereby represents and warrants to Parent and Acquisition Corp. as follows. Notwithstanding anything to the contrary contained herein, disclosure of items in the draft Current Report on Form 8-K of Parent with respect to the Merger, and all exhibits thereto, a copy of which is attached hereto as Exhibit D (collectively, the “Disclosures”) shall be deemed to be disclosure of such items for all purposes under this Agreement, including, without limitation, for all applicable representations and warranties of the Company:
+ 
+
+
+  
+
+
+- 4 -
+
+
+
+
+
+  
+
+
+ 
+Section 2.01                      Organization, Standing, Subsidiaries, Etc.
+ 
+(a)           The Company is a corporation duly organized and existing in good standing under the laws of the State of Nevada and has all requisite power and authority (corporate and other) to carry on its business, to own or lease its properties and assets, to enter into this Agreement, the Certificate of Merger and the Articles of Merger and to carry out the terms hereof and thereof. Copies of the Articles of Incorporation and By-Laws of the Company that have been delivered to Parent and Acquisition Corp. prior to the execution of this Agreement are true and complete and have not since been amended or repealed.
+ 
+(b)           The Company has no subsidiaries or direct or indirect interest (by way of stock ownership or otherwise) in any firm, corporation, limited liability company, partnership, association or business.
+ 
+Section 2.02                      Qualification.  The Company is duly qualified to conduct business as a foreign corporation and is in good standing in each jurisdiction wherein the nature of its activities or its properties owned or leased makes such qualification necessary, except where the failure to be so qualified would not have a material adverse effect on the condition (financial or otherwise), properties, assets, liabilities, business operations, results of operations or prospects of the Company taken as a whole (the “Condition of the Company”).
+ 
+Section 2.03                      Capitalization of the Company.  The authorized capital stock of the Company 500,000,000 shares of Company Common Stock issued and outstanding, and such shares are duly authorized, validly issued, fully paid and non-assessable, and none of such shares have been issued in violation of the preemptive rights of any natural person, corporation, business trust, association, limited liability company, partnership, joint venture, other entity, government, agency or political subdivision (each, a “Person”). The offer, issuance and sale of such shares of Company Common Stock were (a) exempt from the registration and prospectus delivery requirements of the Securities Act of 1933, as amended (the “Securities Act”), (b) registered or qualified (or were exempt from registration or qualification) under the registration or qualification requirements of all applicable state securities laws and (c) accomplished in conformity with all other applicable securities laws. None of such shares of Company Common Stock are subject to a right of withdrawal or a right of rescission under any federal or state securities or “Blue Sky” law. Except as otherwise set forth in this Agreement or as disclosed in Schedule 2.03, the Company has no outstanding options, rights or commitments to issue Company Common Stock or other Equity Securities (as defined below) of the Company, and there are no outstanding securities convertible or exercisable into or exchangeable for Company Common Stock or other Equity Securities of the Company. For purposes of this Agreement, “Equity Security” shall mean any stock or similar security of an issuer or any security (whether stock or Indebtedness for Borrowed Money (as defined below)) convertible, with or without consideration, into any stock or other equity security, or any security (whether stock or Indebtedness for Borrowed Money) carrying any warrant or right to subscribe to or purchase any stock or similar security, or any such warrant or right.
+ 
+
+
+  
+
+
+- 5 -
+
+
+
+
+
+  
+
+
+ 
+Section 2.04                      Indebtedness.  Except as provided in the Company’s Financial Statements (as defined below) or on Schedule 2.04, the Company has no Indebtedness for Borrowed Money. For purposes of this Agreement, “Indebtedness for Borrowed Money” shall mean (a) all Indebtedness in respect of money borrowed including, without limitation, Indebtedness that represents the unpaid amount of the purchase price of any property and is incurred in lieu of borrowing money or using available funds to pay such amounts and not constituting an account payable or expense accrual incurred or assumed in the ordinary course of business of the Company, (b) all Indebtedness evidenced by a promissory note, bond or similar written obligation to pay money or (c) all such Indebtedness guaranteed by the Company or for which the Company is otherwise contingently liable. Furthermore, for purposes of this Agreement, “Indebtedness” shall mean any obligation of the Company which, under generally accepted accounting principles in the United Stated (“GAAP”), is required to be shown on the balance sheet of the Company as a liability. Any obligation secured by a mortgage, pledge, security interest, encumbrance, lien or charge of any kind (a “Lien”), shall be deemed to be Indebtedness, even though such obligation is not assumed by the Company.
+ 
+Section 2.05                      Company Stockholders.  Schedule 2.05 hereto contains a true and complete list of the names of the record owners of all of the outstanding shares of Company Common Stock and other Equity Securities of the Company, together with the number of securities held or to which such Person has rights to acquire. To the knowledge of the Company, there is no voting trust, agreement or arrangement among any of the beneficial holders of Company Common Stock affecting the nomination or election of directors or the exercise of the voting rights of Company Common Stock.
+ 
+Section 2.06                      Corporate Acts and Proceedings.  The execution, delivery and performance of this Agreement, the Certificate of Merger and the Articles of Merger (together, the “Merger Documents”) have been duly authorized by the Board of Directors of the Company and have been approved by the requisite vote of the Stockholders, and all of the corporate acts and other proceedings required for the due and valid authorization, execution, delivery and performance of the Merger Documents and the consummation of the Merger have been validly and appropriately taken, except for the filings referred to in Section 1.02.
+ 
+Section 2.07                      Governmental Consents.  All material consents, approvals, orders, or authorizations of, or registrations, qualifications, designations, declarations, or filings with any federal or state governmental authority on the part of the Company required in connection with the consummation of the Merger shall have been obtained prior to, and be effective as of, the Closing.
+ 
+
+
+  
+
+
+- 6 -
+
+
+
+
+
+  
+
+
+ 
+Section 2.08                      Compliance with Laws and Instruments.  The business, products and operations of the Company have been and are being conducted in compliance in all material respects with all applicable laws, rules and regulations, except for such violations thereof for which the penalties, in the aggregate, would not have a material adverse effect on the Condition of the Company. The execution, delivery and performance by the Company of the Merger Documents and the consummation by the Company of the transactions contemplated by this Agreement: (a) will not cause the Company to violate or contravene (i) any provision of law, (ii) any rule or regulation of any agency or government, (iii) any order, judgment or decree of any court, or (iv) any provision of the Articles of Incorporation or By-Laws of the Company, (b) will not violate or be in conflict with, result in a breach of or constitute (with or without notice or lapse of time, or both) a default under, any indenture, loan or credit agreement, deed of trust, mortgage, security agreement or other contract, agreement or instrument to which the Company is a party or by which the Company or any of its properties is bound or affected, except as would not have a material adverse effect on the Condition of the Company and (c) will not result in the creation or imposition of any Lien upon any property or asset of the Company. The Company is not in violation of, or (with or without notice or lapse of time, or both) in default under, any term or provision of its Articles of Incorporation or By-Laws or of any indenture, loan or credit agreement, deed of trust, mortgage, security agreement or, except as would not materially and adversely affect the Condition of the Company, any other material agreement or instrument to which the Company is a party or by which the Company or any of its properties is bound or affected.
+ 
+Section 2.09                      Binding Obligations.  The Merger Documents constitute the legal, valid and binding obligations of the Company and are enforceable against the Company in accordance with their respective terms, except as such enforcement is limited by bankruptcy, insolvency and other similar laws affecting the enforcement of creditors’ rights generally and by general principles of equity.
+ 
+Section 2.10                      Broker’s and Finder’s Fees. No Person has, or as a result of the transactions contemplated or described herein will have, any right or valid claim against the Company, Parent, Acquisition Corp. or any Stockholder for any commission, fee or other compensation as a finder or broker, or in any similar capacity.
+ 
+Section 2.11                      Financial Statements.  Parent has previously been provided with the Company’s (i) audited balance sheet (the “Balance Sheet”) as of December 31, 2010 (the “Company Balance Sheet Date”), (ii) audited statements of operations and accumulated deficits and cash flows for the period of inception to December 31, 2010, (iii) unaudited balance sheet as of June 30, 2011, and (iv) unaudited statements of operations and accumulated deficits and cash flows for the three months ended June 30, 2011 and June 30, 2010. Such financial statements are collectively referred to as the “Financial Statements”. The Financial Statements (a) are in accordance with the books and records of the Company, (b) present fairly in all material respects the financial condition of the Company at the dates therein specified and the results of its operations and changes in financial position for the periods therein specified and (c) have been prepared in accordance with GAAP applied on a basis consistent with prior accounting periods.
+ 
+Section 2.12                      Absence of Undisclosed Liabilities. The Company has no material obligation or liability (whether accrued, absolute, contingent, liquidated or otherwise, whether due or to become due), arising out of any transaction entered into at or prior to the Closing, except (a) as disclosed in the Balance Sheet, (b) to the extent set forth on or reserved against in the Balance Sheet or the notes to the Financial Statements, (c) current liabilities incurred and obligations under agreements entered into in the usual and ordinary course of business since the Company Balance Sheet Date, none of which (individually or in the aggregate) has had or will have a material adverse effect on the Condition of the Company and (d) by the specific terms of any written agreement, document or arrangement identified in the Disclosures.
+ 
+
+
+  
+
+
+- 7 -
+
+
+
+
+
+  
+
+
+ 
+Section 2.13                      Changes.  Since the Company Balance Sheet Date and except as seto forth on Schedule 2.13, the Company has not (a) incurred any debts, obligations or liabilities, absolute, accrued, contingent or otherwise, whether due or to become due, except for fees, expenses and liabilities incurred in connection with the Merger and related transactions and current liabilities incurred in the usual and ordinary course of business, (b) discharged or satisfied any Liens other than those securing, or paid any obligation or liability other than, current liabilities shown on the Balance Sheet and current liabilities incurred since the Company Balance Sheet Date, in each case in the usual and ordinary course of business, (c) mortgaged, pledged or subjected to Lien any of its assets, tangible or intangible other than in the usual and ordinary course of business, (d) sold, transferred or leased any of its assets, except in the usual and ordinary course of business, (e) cancelled or compromised any debt or claim, or waived or released any right, of material value, (f) suffered any physical damage, destruction or loss (whether or not covered by insurance) materially and adversely affecting the Condition of the Company, (g) entered into any transaction other than in the usual and ordinary course of business, (h) encountered any labor union difficulties, (i) made or granted any wage or salary increase or made any increase in the amounts payable under any profit sharing, bonus, deferred compensation, severance pay, insurance, pension, retirement or other employee benefit plan, agreement or arrangement, other than in the ordinary course of business consistent with past practice, or entered into any employment agreement, (j) issued or sold any shares of capital stock, bonds, notes, debentures or other securities or granted any options (including employee stock options), warrants or other rights with respect thereto, (k) declared or paid any dividends on or made any other distributions with respect to, or purchased or redeemed, any of its outstanding capital stock, (l) suffered or experienced any change in, or condition affecting, the Condition of the Company other than changes, events or conditions in the usual and ordinary course of its business, none of which (either by itself or in conjunction with all such other changes, events and conditions) has been materially adverse, (m) made any change in the accounting principles, methods or practices followed by it or depreciation or amortization policies or rates theretofore adopted, (n) made or permitted any amendment or termination of any material contract, agreement or license to which it is a party, (o) suffered any material loss not reflected in the Balance Sheet or its statement of income for the period ended on the Company Balance Sheet Date, (p) paid, or made any accrual or arrangement for payment of, bonuses or special compensation of any kind or any severance or termination pay to any present or former officer, director, employee, stockholder or consultant, (q) made or agreed to make any charitable contributions or incurred any non-business expenses in excess of $50,000 in the aggregate or (r) entered into any agreement, or otherwise obligated itself, to do any of the foregoing.
+ 
+
+
+  
+
+
+- 8 -
+
+
+
+
+
+  
+
+
+ 
+Section 2.14                      Assets and Contracts.
+ 
+(a)           Schedule 2.14(a) contains a true and complete list of all real property leased by the Company and of all tangible personal property owned or leased by the Company having a cost or fair market value of greater than $250,000. All the real property listed in Schedule 2.14(a) is leased by the Company under valid leases enforceable in accordance with their terms, and there is not, under any such lease, any existing default or event of default or event which with notice or lapse of time, or both, would constitute a default by the Company, and the Company has not received any notice or claim of any such default by the Company. The Company does not own any real property.
+ 
+(b)           Except as expressly set forth in this Agreement, the Financial Statements or the notes thereto, or as disclosed in Schedule 2.14(b) hereto, the Company is not a party to any written or oral agreement not made in the ordinary course of business that is material to the Company. Except as disclosed in Schedule 2.14(b) hereto, the Company is not a party to any written or oral (i) agreement for the purchase of fixed assets or for the purchase of materials, supplies or equipment in excess of normal operating requirements, (ii) agreement for the employment of any officer, individual employee or other Person on a full-time basis or any agreement with any Person for consulting services, (iii) indenture, loan or credit agreement, note agreement, deed of trust, mortgage, security agreement, promissory note or other agreement or instrument relating to or evidencing Indebtedness for Borrowed Money or subjecting any asset or property of the Company to any Lien or evidencing any Indebtedness, (iv) guaranty of any Indebtedness, (v) other than as set forth in Schedule 2.14(a) hereto, lease or agreement under which the Company is lessee of or holds or operates any property, real or personal, owned by any other Person under which payments to such Person exceed $250,000 per year, (vi) agreement granting any preemptive right, right of first refusal or similar right to any Person, (vii) agreement or arrangement with any Affiliate or any “associate” (as such term is defined in Rule 405 under the Securities Act) of the Company or any present or former officer, director or stockholder of the Company, (viii) agreement obligating the Company to pay any royalty or similar charge for the use or exploitation of any tangible or intangible property, (ix) covenant not to compete or other material restriction on its ability to conduct a business or engage in any other activity, (x) agreement to register securities under the Securities Act or (xi) collective bargaining agreement. None of the agreements, contracts, leases, instruments or other documents or arrangements listed in Schedules 2.14(a) and 2.14(b) requires the consent of any of the parties thereto other than the Company to permit the contract, agreement, lease, instrument or other document or arrangement to remain effective following consummation of the Merger and the transactions contemplated hereby. For purposes of this Agreement, an “Affiliate” shall mean any Person that directly or indirectly controls, is controlled by, or is under common control with, the indicated Person.
+ 
+(c)           The Company has made available to Parent and Acquisition Corp. true and complete copies of all agreements and other documents and a description of all applicable oral agreements disclosed or referred to in Schedules 2.14(a) and 2.14(b), as well as any additional agreements or documents, requested by Parent or Acquisition Corp. The Company has in all material respects performed all obligations required to be performed by it to date and is not in default in any material respect under any of the contracts, agreements, leases, documents, commitments or other arrangements to which it is a party or by which it or any of its property is otherwise bound or affected.
+ 
+
+
+  
+
+
+- 9 -
+
+
+
+
+
+  
+
+
+ 
+Section 2.15                      Personnel.  The Company has complied in all material respects with all laws relating to the employment of labor, and the Company has encountered no material labor union difficulties. Other than pursuant to ordinary arrangements of compensation to personnel, the Company is not under any obligation or liability to any officer, director, consultant or staff member of the Company.
+ 
+Section 2.16                      Tax Returns and Audits.
+ 
+(a)           Except as disclosed in Schedule 2.16(a) hereto, all required federal, state and local Tax Returns (as defined below) of the Company have been accurately prepared and duly and timely filed, and all federal, state and local Taxes (as defined below) required to be paid with respect to the periods covered by such returns have been paid. The Company is not and has not been delinquent in the payment of any Tax. The Company has not had a Tax deficiency proposed or assessed against it and has not executed a waiver of any statute of limitations on the assessment or collection of any Tax. None of the Company’s federal income tax returns has been audited by any governmental authority; and none of the Company’s state or local income or franchise tax returns has been audited by any governmental authority. The reserves for Taxes reflected on the Balance Sheet, if any, are and will be sufficient for the payment of all unpaid Taxes payable by the Company as of the Company Balance Sheet Date. Since the Company Balance Sheet Date, the Company has made adequate provisions on its books of account for all Taxes with respect to its business, properties and operations for such period. The Company has withheld or collected from each payment made to each of its employees the amount of all taxes (including, but not limited to, federal, state and local income taxes, Federal Insurance Contribution Act taxes and Federal Unemployment Tax Act taxes) required to be withheld or collected therefrom, and has paid the same to the proper Tax receiving officers or authorized depositaries. There are no federal, state, local or foreign audits, actions, suits, proceedings, investigations, claims or administrative proceedings relating to Taxes or any Tax Returns of the Company now pending, and the Company has not received any notice of any proposed audits, investigations, claims or administrative proceedings relating to Taxes or any Tax Returns. The Company is not obligated to make a payment, nor is it a party to any agreement that under certain circumstances could obligate it to make a payment that would not be deductible under Section 280G of the Code. The Company has not agreed, nor is it required, to make any adjustments under Section 481(a) of the Code (or any similar provision of state, local and foreign law), whether by reason of a change in accounting method or otherwise, for any Tax period for which the applicable statute of limitations has not yet expired. The Company (i) is not a party to, nor is it bound by or obligated under, any Tax sharing agreement, Tax indemnification agreement or similar contract or arrangement, whether written or unwritten (collectively, “Tax Sharing Agreements”), and (ii) does not have any potential liability or obligation to any Person as a result of, or pursuant to, any such Tax Sharing Agreements.
+ 
+(b)           For purposes of this Agreement, the following terms shall have the meanings provided below:
+ 
+
+
+  
+
+
+- 10 -
+
+
+
+
+
+  
+
+
+ 
+(i)           “Tax” or “Taxes” shall mean (A) any and all taxes, assessments, customs, duties, levies, fees, tariffs, imposts, deficiencies and other governmental charges of any kind whatsoever (including, but not limited to, taxes on or with respect to net or gross income, franchise, profits, gross receipts, capital, sales, use, ad valorem, value added, transfer, real property transfer, transfer gains, transfer taxes, inventory, capital stock, license, payroll, employment, social security, unemployment, severance, occupation, real or personal property, estimated taxes, rent, excise, occupancy, recordation, bulk transfer, intangibles, alternative minimum, doing business, withholding and stamp), together with any interest thereon, penalties, fines, damages costs, fees, additions to tax or additional amounts with respect thereto, imposed by the United States (federal, state or local) or other applicable jurisdiction; (B) any liability for the payment of any amounts described in clause (A) as a result of being a member of an affiliated, consolidated, combined, unitary or similar group or as a result of transferor or successor liability, including, without limitation, by reason of Regulation section 1.1502-6; and (C) any liability for the payments of any amounts as a result of being a party to any Tax Sharing Agreement or as a result of any express or implied obligation to indemnify any other Person with respect to the payment of any amounts of the type described in clause (A) or (B).
+ 
+(ii)           “Tax Return” shall include all returns and reports (including elections, declarations, disclosures, schedules, estimates and information returns (including Form 1099 and partnership returns filed on Form 1065) required to be supplied to a Tax authority relating to Taxes.
+ 
+Section 2.17                      Patents and Other Intangible Assets.
+ 
+(a)           The Company (i) owns or has the right to use, free and clear of all Liens, claims and restrictions, all patents, trademarks, service marks, trade names, copyrights, licenses and rights with respect to the foregoing used in or necessary for the conduct of its business as now conducted or proposed to be conducted without infringing upon or otherwise acting adversely to the right or claimed right of any Person under or with respect to any of the foregoing and (ii) is not obligated or under any liability to make any payments by way of royalties, fees or otherwise to any owner or licensor of, or other claimant to, any patent, trademark, service mark, trade name, copyright or other intangible asset, with respect to the use thereof or in connection with the conduct of its business or otherwise.
+ 
+(b)           To the knowledge of the Company, the Company owns and has the unrestricted right to use all trade secrets, if any, including know-how, negative know-how, formulas, patterns, programs, devices, methods, techniques, inventions, designs, processes, computer programs and technical data and all information that derives independent economic value, actual or potential, from not being generally known or known by competitors (collectively, “Intellectual Property”) required for or incident to the development, operation and sale of all products and services sold by the Company, free and clear of any right, Lien or claim of others; provided, however, that the possibility exists that other Persons, completely independently of the Company or its employees or agents, could have developed Intellectual Property similar or identical to that of the Company. The Company is not aware of any such development of substantially identical trade secrets or technical information by others. All Intellectual Property can and will be transferred by the Company to the Surviving Corporation as a result of the Merger and without the consent of any Person other than the Company.
+ 
+
+
+  
+
+
+- 11 -
+
+
+
+
+
+  
+
+
+ 
+Section 2.18                      Employee Benefit Plans; ERISA.
+ 
+(a)           There are no “employee benefit plans” (within the meaning of Section 3(3) of ERISA) nor any other employee benefit or fringe benefit arrangements, practices, contracts, policies or programs of every type other than programs merely involving the regular payment of wages, commissions, or bonuses established, maintained or contributed to by the Company, whether written or unwritten and whether or not funded. The plans listed on Schedule 2.18 hereto are hereinafter referred to as the “Employee Benefit Plans.”
+ 
+(b)           All current and prior material documents, including all amendments thereto, with respect to each Employee Benefit Plan have been made available to Parent and Acquisition Corp. or their advisors.
+ 
+(c)           To the knowledge of the Company, all Employee Benefit Plans are in material compliance with the applicable requirements of ERISA, the Code and any other applicable state, federal or foreign law.
+ 
+(d)           There are no pending claims or lawsuits that have been asserted or instituted against any Employee Benefit Plan, the assets of any of the trusts or funds under the Employee Benefit Plans, the plan sponsor or the plan administrator of any of the Employee Benefit Plans or against any fiduciary of an Employee Benefit Plan with respect to the operation of such plan, nor does the Company have any knowledge of any incident, transaction, occurrence or circumstance that might reasonably be expected to form the basis of any such claim or lawsuit.
+ 
+(e)           There is no pending or, to the knowledge of the Company, contemplated investigation, or pending or possible enforcement action by the Pension Benefit Guaranty Corporation, the Department of Labor, the Internal Revenue Service or any other government agency with respect to any Employee Benefit Plan and the Company has no knowledge of any incident, transaction, occurrence or circumstance which might reasonably be expected to trigger such an investigation or enforcement action.
+ 
+(f)           No actual or, to the knowledge of the Company, contingent liability exists with respect to the funding of any Employee Benefit Plan or for any other expense or obligation of any Employee Benefit Plan, except as disclosed on the financial statements of the Company, and no contingent liability exists under ERISA with respect to any “multi-employer plan,” as defined in Section 3(37) or Section 4001(a)(3) of ERISA.
+ 
+(g)           No events have occurred or are expected to occur with respect to any Employee Benefit Plan that would cause a material change in the costs of providing benefits under such Employee Benefit Plan or would cause a material change in the cost of providing for other liabilities of such Employee Benefit Plan.
+ 
+
+
+  
+
+
+- 12 -
+
+
+
+
+
+  
+
+
+ 
+Section 2.19                      Title to Property and Encumbrances.  The Company has good, valid and indefeasible marketable title to all properties and assets used in the conduct of its business (except for property held under valid and subsisting leases that are in full force and effect and which are not in default) free of all Liens and other encumbrances, except Permitted Liens (as defined below) and such ordinary and customary imperfections of title, restrictions and encumbrances as do not, individually or in the aggregate, materially detract from the value of the property or assets or materially impair the use made thereof by the Company in its business. Without limiting the generality of the foregoing, the Company has good and indefeasible title to all of its properties and assets reflected in the Balance Sheet, except for property disposed of in the usual and ordinary course of business since the Company Balance Sheet Date and for property held under valid and subsisting leases that are in full force and effect and that are not in default. For purposes of this Agreement, “Permitted Liens” shall mean (a) Liens for taxes and assessments or governmental charges or levies not at the time due or in respect of which the validity thereof shall currently be contested in good faith by appropriate proceedings; (b) Liens in respect of pledges or deposits under workmen’s compensation laws or similar legislation, carriers’, warehousemen’s, mechanics’, laborers’ and materialmens’ and similar Liens, if the obligations secured by such Liens are not then delinquent or are being contested in good faith by appropriate proceedings and (c) Liens incidental to the conduct of the business of the Company that were not incurred in connection with the borrowing of money or the obtaining of advances or credits and that do not in the aggregate materially detract from the value of its property or materially impair the use made thereof by the Company in its business.
+ 
+Section 2.20                      Condition of Properties.  All facilities, machinery, equipment, fixtures and other properties owned, leased or used by the Company are in reasonably good operating condition and repair, subject to ordinary wear and tear, and are adequate and sufficient for the Company’s business.
+ 
+Section 2.21                      Insurance Coverage.  There is in full force and effect one or more policies of insurance issued by insurers of recognized responsibility, insuring the Company and its properties, products and business against such losses and risks, and in such amounts, as are customary for corporations of established reputation engaged in the same or similar business and similarly situated. The Company has not been refused any insurance coverage sought or applied for, and the Company has no reason to believe that it will be unable to renew its existing insurance coverage as and when the same shall expire upon terms at least as favorable to those currently in effect, other than possible increases in premiums that do not result from any act or omission of the Company. No suit, proceeding or action or, to the best current actual knowledge of the Company, threat of suit, proceeding or action has been asserted or made against the Company within the last five years due to alleged bodily injury, disease, medical condition, death or property damage arising out of the function or malfunction of a product, procedure or service designed, manufactured, sold or distributed by the Company.
+ 
+Section 2.22                      Litigation.  Except as disclosed in Schedule 2.22 hereto, there is no legal action, suit, arbitration or other legal, administrative or other governmental proceeding pending or, to the knowledge of the Company, threatened against or affecting the Company or its properties, assets or business, and after reasonable investigation, the Company is not aware of any incident, transaction, occurrence or circumstance that might reasonably be expected to result in or form the basis for any such action, suit, arbitration or other proceeding. The Company is not in default with respect to any order, writ, judgment, injunction, decree, determination or award of any court or any governmental agency or instrumentality or arbitration authority.
+ 
+Section 2.23                      Licenses.  The Company possesses from all appropriate governmental authorities all licenses, permits, authorizations, approvals, franchises and rights necessary for the Company to engage in the business currently conducted by it, all of which are in full force and effect.
+ 
+
+
+  
+
+
+- 13 -
+
+
+
+
+
+  
+
+
+ 
+Section 2.24                      Interested Party Transactions.  Except as described on Schedule 2.24 annexed hereto, no officer, director or stockholder of the Company or any Affiliate or “associate” (as such term is defined in Rule 405 under the Securities Act) of any such Person or the Company has or has had, either directly or indirectly, (a) an interest in any Person that (i) furnishes or sells services or products that are furnished or sold or are proposed to be furnished or sold by the Company or (ii) purchases from or sells or furnishes to the Company any goods or services, or (b) a beneficial interest in any contract or agreement to which the Company is a party or by which it may be bound or affected.
+ 
+Section 2.25                      Environmental Matters.
+ 
+(a)           To the knowledge of the Company, the Company has never generated, used, handled, treated, released, stored or disposed of any Hazardous Materials (as defined below) on any real property on which it now has or previously had any leasehold or ownership interest, except in compliance with all applicable Environmental Laws (as defined below).
+ 
+(b)           To the knowledge of the Company, the historical and present operations of the business of the Company are in compliance with all applicable Environmental Laws, except where any non-compliance has not had and would not reasonably be expected to have a material adverse effect on the Condition of the Company.
+ 
+(c)           There are no material pending or, to the knowledge of the Company, threatened, demands, claims, information requests or notices of noncompliance or violation against or to the Company relating to any Environmental Law; and, to the knowledge of the Company, there are no conditions or occurrences on any of the real property used by the Company in connection with its business that would reasonably be expected to lead to any such demands, claims or notices against or to the Company, except such as have not had, and would not reasonably be expected to have, a material adverse effect on the Condition of the Company.
+ 
+(d)           To the knowledge of the Company, (i) the Company has not sent or disposed of, otherwise had taken or transported, arranged for the taking or disposal of (on behalf of itself, a customer or any other party) or in any other manner participated or been involved in the taking of or disposal or release of a Hazardous Material to or at a site that is contaminated by any Hazardous Material or that, pursuant to any Environmental Law, (A) has been placed on the “National Priorities List”, the “CERCLIS” list, or any similar state or federal list, or (B) is subject to or the source of a claim, an administrative order or other request to take “removal”, “remedial”, “corrective” or any other “response” action, as defined in any Environmental Law, or to pay for the costs of any such action at the site; (ii) the Company is not involved in (and has no basis to reasonably expect to be involved in) any suit or proceeding and has not received (and has no basis to reasonably expect to receive) any notice, request for information or other communication from any governmental authority or other third party with respect to a release or threatened release of any Hazardous Material or a violation or alleged violation of any Environmental Law, and has not received (and has no basis to reasonably expect to receive) notice of any claims from any Person relating to property damage, natural resource damage or to personal injuries from exposure to any Hazardous Material; and (iii) the Company has timely filed every report required to be filed, acquired all necessary certificates, approvals and permits, and generated and maintained all required data, documentation and records under all Environmental Laws, in all such instances except where the failure to do so would not reasonably be expected to have, individually or in the aggregate, a material adverse effect on the Condition of the Company.
+ 
+
+
+  
+
+
+- 14 -
+
+
+
+
+
+  
+
+
+ 
+(e)           For purposes of this Agreement, the following terms shall have the meanings provided below:
+ 
+(i)           “Environmental Laws” shall mean the Comprehensive Environmental Response, Compensation and Liability Act, 42 U.S.C. §§ 9601, et seq.; the Emergency Planning and Community Right-to-Know Act of 1986, 42 U.S.C. §§ 11001, et seq.; the Resource Conservation and Recovery Act, 42 U.S.C. §§ 6901, et seq.; the Toxic Substances Control Act, 15 U.S.C. §§ 2601 et seq.; the Federal Insecticide, Fungicide, and Rodenticide Act, 7 U.S.C. §§ 136, et seq. and comparable state statutes dealing with the registration, labeling and use of pesticides and herbicides; the Clean Air Act, 42 U.S.C. §§ 7401 et seq.; the Clean Water Act (Federal Water Pollution Control Act), 33 U.S.C. §§ 1251 et seq.; the Safe Drinking Water Act, 42 U.S.C. §§ 300f, et seq.; the Hazardous Materials Transportation Act, 49 U.S.C. §§ 1801, et seq.; as any of the above statutes have been amended as of the date hereof, all rules, regulations and policies promulgated pursuant to any of the above statutes, and any other foreign, federal, state or local law, statute, ordinance, rule, regulation or policy governing environmental matters, as the same have been amended as of the date hereof.
+ 
+(ii)           “Hazardous Material” shall mean any substance or material meeting any one or more of the following criteria: (a) it is or contains a substance designated as or meeting the characteristics of a hazardous waste, hazardous substance, hazardous material, pollutant, contaminant or toxic substance under any Environmental Law; (b) its presence at some quantity requires investigation, notification or remediation under any Environmental Law; or (c) it contains, without limiting the foregoing, asbestos, polychlorinated biphenyls, petroleum hydrocarbons, petroleum derived substances or waste, pesticides, herbicides, crude oil or any fraction thereof, nuclear fuel, natural gas or synthetic gas.
+ 
+Section 2.26                      Questionable Payments.  Neither the Company nor any director, officer or, to the knowledge of the Company, agent, employee or other Person associated with or acting on behalf of the Company, has used any corporate funds for unlawful contributions, gifts, entertainment or other unlawful expenses relating to political activity; made any direct or indirect unlawful payments to government officials or employees from corporate funds; established or maintained any unlawful or unrecorded fund of corporate monies or other assets; made any false or fictitious entries on the books of record of any such corporations; or made any bribe, rebate, payoff, influence payment, kickback or other unlawful payment.
+ 
+Section 2.27                      Obligations to or by Stockholders.  Except as set forth in Schedule 2.27 hereto, the Company has no liability or obligation or commitment to any Stockholder or any Affiliate or “associate” (as such term is defined in Rule 405 under the Securities Act) of any Stockholder, nor does any Stockholder or any such Affiliate or associate have any liability, obligation or commitment to the Company.
+ 
+
+
+  
+
+
+- 15 -
+
+
+
+
+
+  
+
+
+ 
+Section 2.28                      Duty to Make Inquiry.  To the extent that any of the representations or warranties in this Article II are qualified by “knowledge” or “belief,” the Company represents and warrants that it has made due and reasonable inquiry and investigation concerning the matters to which such representations and warranties relate, including, but not limited to, diligent inquiry of its directors, officers and key personnel.
+ 
+Section 2.29                      Disclosure.  There is no fact relating to the Company that the Company has not disclosed to Parent and Acquisition Corp. in writing that has had or is currently having a material and adverse effect or, insofar as the Company can now foresee, will materially and adversely affect the Condition of the Company. No representation or warranty by the Company herein and no information disclosed in the schedules or exhibits hereto by the Company contains any untrue statement of a material fact or omits to state a material fact necessary to make the statements contained herein or therein not misleading.
+ 
+ARTICLE III.
+REPRESENTATIONS AND WARRANTIES OF PARENT AND ACQUISITION CORP.
+ 
+Parent and Acquisition Corp. represent and warrant to the Company as follows. Notwithstanding anything to the contrary contained herein, disclosure of items in the Parent SEC Documents (as defined below) shall be deemed to be disclosure of such items for all purposes under this Agreement, including, without limitation, for all applicable representations and warranties of Parent and Acquisition Corp.:
+ 
+Section 3.01                      Organization and Standing.  Parent is a corporation duly organized and existing in good standing under the laws of the State of Delaware. Acquisition Corp. is a corporation duly organized and existing in good standing under the laws of the State of Delaware. Parent and Acquisition Corp. have heretofore delivered to the Company complete and correct copies of their respective Certificates of Incorporation and By-Laws as now in effect. Parent and Acquisition Corp. have full corporate power and authority to carry on their respective businesses as they are now being conducted and as now proposed to be conducted and to own or lease their respective properties and assets. Neither Parent nor Acquisition Corp. has any subsidiaries (except Parent’s ownership of Acquisition Corp. and KOPR Resources Holdings, Inc.) or direct or indirect interest (by way of stock ownership or otherwise) in any firm, corporation, limited liability company, partnership, association or business. Parent owns all of the issued and outstanding capital stock of Acquisition Corp. free and clear of all Liens, and Acquisition Corp. has no outstanding options, warrants or rights to purchase capital stock or other securities of Acquisition Corp., other than the capital stock owned by Parent. Unless the context otherwise requires, all references in this Article III to “Parent” shall be treated as being a reference to Parent and Acquisition Corp. taken together as one enterprise.
+ 
+Section 3.02                      Qualification.  Parent is duly qualified to conduct business as a foreign corporation and is in good standing in each jurisdiction wherein the nature of its activities or its properties owned or leased makes such qualification necessary, except where the failure to be so qualified would not have a material adverse effect on the condition, properties, assets, liabilities or business operations of Parent (the “Condition of the Parent”).
+ 
+
+
+  
+
+
+- 16 -
+
+
+
+
+
+  
+
+
+ 
+Section 3.03                      Corporate Authority.  Each of Parent and/or Acquisition Corp. (as the case may be) has full corporate power and authority to enter into the Merger Documents and the other agreements to be made pursuant to the Merger Documents, and to carry out the transactions contemplated hereby and thereby. All corporate acts and proceedings required for the authorization, execution, delivery and performance of the Merger Documents and such other agreements and documents by Parent and/or Acquisition Corp. (as the case may be) have been duly and validly taken or will have been so taken prior to the Closing. Each of the Merger Documents constitutes a legal, valid and binding obligation of Parent and/or Acquisition Corp. (as the case may be), each is enforceable against it and/or them in accordance with its terms, except as such enforcement may be limited by bankruptcy, insolvency, reorganization or other similar laws affecting creditors’ rights generally and by general principles of equity.
+ 
+Section 3.04                      Broker’s and Finder’s Fees.  No Person is entitled by reason of any act or omission of Parent or Acquisition Corp. to any broker’s or finder’s fees, commission or other similar compensation with respect to the execution and delivery of the Merger Documents, or with respect to the consummation of the transactions contemplated thereby, except as set forth in the Disclosures.
+ 
+Section 3.05                      Capitalization.
+ 
+(a)           The authorized capital stock of Parent consists of (i) 200,000,000 shares of Parent Common Stock, of which 33,510,919 shares are issued and outstanding (with fractional shares rounded up to the nearest whole share) and (ii) 50,000,000 shares of preferred stock, par value $0.0001 per share, of which 5,000,000 are designated as Series A Convertible Preferred Stock and of which no shares are issued and outstanding. Except as set forth in Schedule 3.05(a) hereto, Parent has no outstanding options, rights or commitments to issue shares of Parent Stock or any other Equity Security of Parent or Acquisition Corp., and there are no outstanding securities convertible or exercisable into or exchangeable for shares of Parent Common Stock or any other Equity Security of Parent or Acquisition Corp. There is no voting trust, agreement or arrangement among any of the beneficial holders of Parent Common Stock affecting the nomination or election of directors or the exercise of the voting rights of Parent Common Stock. The offer, issuance and sale of such shares of Parent Common Stock were (a) exempt from the registration and prospectus delivery requirements of the Securities Act, (b) registered or qualified (or were exempt from registration or qualification) under the registration or qualification requirements of all applicable state securities laws and (c) accomplished in conformity with all other applicable securities laws. None of such shares of Parent Common Stock are subject to a right of withdrawal or a right of rescission under any federal or state securities or “Blue Sky” law.
+ 
+(b)           The authorized capital stock of Acquisition Corp. consists of 3,000 shares of common stock, par value $0.0001 per share (the “Acquisition Corp. Common Stock”), of which 1,000 shares are issued and outstanding. All of the outstanding Acquisition Corp. Common Stock is owned by Parent. All outstanding shares of the capital stock of Acquisition Corp. are validly issued and outstanding, fully paid and non-assessable, and none of such shares have been issued in violation of the preemptive rights of any Person. Acquisition Corp. has no outstanding options, rights or commitments to issue shares of Acquisition Corp. Common Stock or any other Equity Security of Acquisition Corp., and there are no outstanding securities convertible or exercisable into or exchangeable for shares of Acquisition Corp. Common Stock or any other Equity Security of Acquisition Corp.
+ 
+
+
+  
+
+
+- 17 -
+
+
+
+
+
+  
+
+
+ 
+Section 3.06                      Acquisition Corp.  Acquisition Corp. is a wholly-owned Delaware subsidiary of Parent that was formed specifically for the purpose of the Merger and that has not conducted any business or acquired any property, and will not conduct any business or acquire any property prior to the Closing Date, except in preparation for and otherwise in connection with the transactions contemplated by the Merger Documents and the other agreements to be made pursuant to or in connection with the Merger Documents.
+ 
+Section 3.07                      Validity of Shares.  The shares of Parent Common Stock to be issued at the Closing pursuant to Section 1.06(a)(ii) hereof, when issued and delivered in accordance with the terms of the Merger Documents, shall be duly and validly issued, fully paid and non-assessable. Based in part on the representations and warranties of the Stockholders as contemplated by Article IV hereof and assuming the accuracy thereof, the issuance of the Parent Common Stock upon consummation of the Merger pursuant to Sections 1.06(a)(ii) will be exempt from the registration and prospectus delivery requirements of the Securities Act and from the qualification or registration requirements of any applicable state “Blue Sky” or securities laws.
+ 
+Section 3.08                      SEC Reporting and Compliance.
+ 
+(a)           Parent filed a registration statement on Form S-1 under the Securities Act, which became effective on March 9, 2009 (the “Parent Registration Statement”).  Since March 9, 2009, the Parent has timely filed with the U.S. Securities and Exchange Commission (the “Commission”) all registration statements, proxy statements, information statements and reports required to be filed pursuant to the Securities Exchange Act of 1934, as amended (the “Exchange Act”). Parent has not filed with the Commission a certificate on Form 15 pursuant to Rule 12h-3 of the Exchange Act.
+ 
+(b)           Parent has made available to the Company true and complete copies of the registration statements, information statements and other reports (collectively, the “Parent SEC Documents”) filed by Parent with the Commission. None of the Parent SEC Documents, as of their respective dates, contained any untrue statement of a material fact or omitted to state a material fact necessary in order to make the statements contained therein not misleading.
+ 
+(c)           Prior to and until the Closing, Parent will provide to the Company copies of any and all amendments or supplements to the Parent SEC Documents filed with the Commission and all subsequent registration statements and reports filed by Parent subsequent to the filing of the Parent SEC Documents with the Commission and any and all subsequent information statements, proxy statements, reports or notices filed by Parent with the Commission or delivered to the stockholders of Parent.
+ 
+(d)           Parent is not an investment company within the meaning of Section 3 of the Investment Company Act of 1940, as amended.
+ 
+(e)           The shares of Parent Common Stock are quoted on the Over-the-Counter (OTC) Bulletin Board under the symbol “BFGC.OB” and Parent is in compliance in all material respects with all rules and regulations of the OTC Bulletin Board applicable to it and the Parent Common Stock.
+ 
+
+
+  
+
+
+- 18 -
+
+
+
+
+
+  
+
+
+ 
+(f)           Between the date hereof and the Closing Date, Parent shall continue to satisfy the filing requirements of the Exchange Act and all other requirements of applicable securities laws and of the OTC Bulletin Board.
+ 
+(g)           The Parent SEC Documents include all certifications and statements required of it, if any, by (i) Rule 13a-14 or 15d-14 under the Exchange Act, and (ii) 18 U.S.C. Section 1350 (Section 906 of the Sarbanes-Oxley Act of 2002), and each of such certifications and statements contain no qualifications or exceptions to the matters certified therein other than a knowledge qualification, permitted under such provision, and have not been modified or withdrawn and neither Parent nor any of its officers has received any notice from the Commission questioning or challenging the accuracy, completeness, form or manner of filing or submission of such certifications or statements.
+ 
+(h)           Parent has otherwise complied with the Securities Act, Exchange Act and all other applicable federal and state securities laws.
+ 
+Section 3.09                      Financial Statements.  The balance sheets and statements of operations, stockholders’ equity and cash flows contained in the Parent SEC Documents (the “Parent Financial Statements”) (a) have been prepared in accordance with GAAP applied on a basis consistent with prior periods (and, in the case of unaudited financial information, on a basis consistent with year-end audits), (b) are in accordance with the books and records of Parent and (c) present fairly in all material respects the financial condition of Parent at the dates therein specified and the results of its operations and changes in financial position for the periods therein specified.  The annual financial statements included in parent’s Registration Statement and Parent SEC Documents were audited by Bernstein & Pinchuk LLP, Parent’s independent registered public accounting firm.
+ 
+Section 3.10                      Governmental Consents.  All material consents, approvals, orders, or authorizations of, or registrations, qualifications, designations, declarations, or filings with any federal or state governmental authority on the part of Parent or Acquisition Corp. required in connection with the consummation of the Merger shall have been obtained prior to, and be effective as of, the Closing.
+ 
+Section 3.11                      Compliance with Laws and Other Instruments.  The execution, delivery and performance by Parent and/or Acquisition Corp. of the Merger Documents and the other agreements to be made by Parent or Acquisition Corp. pursuant to or in connection with the Merger Documents and the consummation by Parent and/or Acquisition Corp. of the transactions contemplated by the Merger Documents will not cause Parent and/or Acquisition Corp. to violate or contravene (a) any provision of law, (b) any rule or regulation of any agency or government, (c) any order, judgment or decree of any court or (d) any provision of their respective charters or By-laws as amended and in effect on and as of the Closing Date and will not violate or be in conflict with, result in a breach of or constitute (with or without notice or lapse of time, or both) a default under any material indenture, loan or credit agreement, deed of trust, mortgage, security agreement or other agreement or contract to which Parent or Acquisition Corp. is a party or by which Parent and/or Acquisition Corp. or any of their respective properties is bound.
+ 
+
+
+  
+
+
+- 19 -
+
+
+
+
+
+  
+
+
+ 
+Section 3.12                      No General Solicitation.  In issuing the Parent Stock in the Merger hereunder, neither Parent nor anyone acting on its behalf has offered to sell the Parent Stock by any form of general solicitation or advertising.
+ 
+Section 3.13                      Binding Obligations.  The Merger Documents constitute the legal, valid and binding obligations of Parent and Acquisition Corp., and are enforceable against Parent and Acquisition Corp., in accordance with their respective terms, except as such enforcement is limited by bankruptcy, insolvency and other similar laws affecting the enforcement of creditors’ rights generally and by general principles of equity.
+ 
+Section 3.14                      Absence of Undisclosed Liabilities.  Neither Parent nor Acquisition Corp. has any material obligation or liability (whether accrued, absolute, contingent, liquidated or otherwise, whether due or to become due), arising out of any transaction entered into at or prior to the Closing, except (a) as disclosed in the Parent SEC Documents, (b) to the extent set forth on or reserved against in the balance sheet of Parent in the most recent Parent SEC Document filed by Parent (the “Parent Balance Sheet”) or the notes to the Parent Financial Statements, (c) current liabilities incurred and obligations under agreements entered into in the usual and ordinary course of business since the date of the Parent Balance Sheet (the “Parent Balance Sheet Date”), none of which (individually or in the aggregate) materially and adversely affects the Condition of Parent and (d) by the specific terms of any written agreement, document or arrangement attached as an exhibit to the Parent SEC Documents.
+ 
+Section 3.15                      Changes.  Since the Parent Balance Sheet Date, except as disclosed in the Parent SEC Documents or Schedule 3.15, Parent has not (a) incurred any debts, obligations or liabilities, absolute, accrued or, to Parent’s knowledge, contingent, whether due or to become due, except for current liabilities incurred in the usual and ordinary course of business, (b) discharged or satisfied any Liens other than those securing, or paid any obligation or liability other than, current liabilities shown on the Parent Balance Sheet and current liabilities incurred since the Parent Balance Sheet Date, in each case in the usual and ordinary course of business, (c) mortgaged, pledged or subjected to Lien any of its assets, tangible or intangible, other than in the usual and ordinary course of business, (d) sold, transferred or leased any of its assets, except in the usual and ordinary course of business, (e) cancelled or compromised any debt or claim, or waived or released any right of material value, (f) suffered any physical damage, destruction or loss (whether or not covered by insurance) that could reasonably be expected to have a material adverse effect on the Condition of the Parent, (g) entered into any transaction other than in the usual and ordinary course of business, (h) encountered any labor union difficulties, (i) made or granted any wage or salary increase or made any increase in the amounts payable under any profit sharing, bonus, deferred compensation, severance pay, insurance, pension, retirement or other employee benefit plan, agreement or arrangement, other than in the ordinary course of business consistent with past practice, or entered into any employment agreement, (j) issued or sold any shares of capital stock, bonds, notes, debentures or other securities or granted any options (including employee stock options), warrants or other rights with respect thereto, (k) declared or paid any dividends on or made any other distributions with respect to, or purchased or redeemed, any of its outstanding capital stock, (l) suffered or experienced any change in, or condition affecting, the Condition of the Parent other than changes, events or conditions in the usual and ordinary course of its business, none of which (either by itself or in conjunction with all such other changes, events and conditions) could reasonably be expected to have a material adverse effect on the Condition of the Parent, (m) made any change in the accounting principles, methods or practices followed by it or depreciation or amortization policies or rates theretofore adopted, (n) made or permitted any amendment or termination of any material contract, agreement or license to which it is a party, (o) suffered any material loss not reflected in the Parent Balance Sheet or its statement of income for the year ended on the Parent Balance Sheet Date, (p) paid, or made any accrual or arrangement for payment of, bonuses or special compensation of any kind or any severance or termination pay to any present or former officer, director, employee, stockholder or consultant, (q) made or agreed to make any charitable contributions or incurred any non-business expenses in excess of $5,000 in the aggregate or (r) entered into any agreement, or otherwise obligated itself, to do any of the foregoing.
+ 
+
+
+  
+
+
+- 20 -
+
+
+
+
+
+  
+
+
+ 
+Section 3.16                      Tax Returns and Audits.  All required federal, state and local Tax Returns of Parent have been accurately prepared in all material respects and duly and timely filed, and all federal, state and local Taxes required to be paid with respect to the periods covered by such returns have been paid to the extent that the same are material and have become due, except where the failure so to file or pay could not reasonably be expected to have a material adverse effect upon the Condition of the Parent. Parent is not and has not been delinquent in the payment of any Tax. Parent has not had a Tax deficiency assessed against it. None of Parent’s federal income, state and local income and franchise tax returns has been audited by any governmental authority. The reserves for Taxes reflected on the Parent Balance Sheet are sufficient for the payment of all unpaid Taxes payable by Parent with respect to the period ended on the Parent Balance Sheet Date. There are no federal, state, local or foreign audits, actions, suits, proceedings, investigations, claims or administrative proceedings relating to Taxes or any Tax Returns of Parent now pending, and Parent has not received any notice of any proposed audits, investigations, claims or administrative proceedings relating to Taxes or any Tax Returns.
+ 
+Section 3.17                      Employee Benefit Plans; ERISA.
+ 
+(a)           Except as disclosed in the Parent SEC Documents, there are no “employee benefit plans” (within the meaning of Section 3(3) of ERISA) nor any other employee benefit or fringe benefit arrangements, practices, contracts, policies or programs other than programs merely involving the regular payment of wages, commissions, or bonuses established, maintained or contributed to by Parent. Any plans listed in the Parent SEC Documents are hereinafter referred to as the “Parent Employee Benefit Plans.”
+ 
+(b)           Any current and prior material documents, including all amendments thereto, with respect to each Parent Employee Benefit Plan have been given to the Company or its advisors.
+ 
+(c)           All Parent Employee Benefit Plans are in material compliance with the applicable requirements of ERISA, the Code and any other applicable state, federal or foreign law.
+ 
+
+
+  
+
+
+- 21 -
+
+
+
+
+
+  
+
+
+ 
+(d)           There are no pending, or to the knowledge of Parent, threatened, claims or lawsuits which have been asserted or instituted against any Parent Employee Benefit Plan, the assets of any of the trusts or funds under the Parent Employee Benefit Plans, the plan sponsor or the plan administrator of any of the Parent Employee Benefit Plans or against any fiduciary of a Parent Employee Benefit Plan with respect to the operation of such plan.
+ 
+(e)           There is no pending, or to the knowledge of Parent, threatened, investigation or pending or possible enforcement action by the Pension Benefit Guaranty Corporation, the Department of Labor, the Internal Revenue Service or any other government agency with respect to any Parent Employee Benefit Plan.
+ 
+(f)           No actual or, to the knowledge of Parent, contingent liability exists with respect to the funding of any Parent Employee Benefit Plan or for any other expense or obligation of any Parent Employee Benefit Plan, except as disclosed on the financial statements of Parent or the Parent SEC Documents, and to the knowledge of Parent, no contingent liability exists under ERISA with respect to any “multi-employer plan,” as defined in Section 3(37) or Section 4001(a)(3) of ERISA.
+ 
+Section 3.18                      Litigation.  There is no legal action, suit, arbitration or other legal, administrative or other governmental proceeding pending or, to the knowledge of Parent, threatened against or affecting Parent or Acquisition Corp. or any of their respective properties, assets or businesses. To the knowledge of Parent, neither Parent nor Acquisition Corp. is in default with respect to any order, writ, judgment, injunction, decree, determination or award of any court or any governmental agency or instrumentality or arbitration authority.
+ 
+Section 3.19                      Licenses.  Parent possesses from all appropriate governmental authorities all licenses, permits, authorizations, approvals, franchises and rights necessary for the Company to engage in the business currently conducted by it, all of which are in full force and effect.
+ 
+Section 3.20                      Interested Party Transactions.  No officer, director or stockholder of Parent or any Affiliate or “associate” (as such term is defined in Rule 405 under the Securities Act) of any such Person or of Parent has or has had, either directly or indirectly, (a) an interest in any Person that (i) furnishes or sells services or products that are furnished or sold or are proposed to be furnished or sold by Parent or (ii) purchases from or sells or furnishes to Parent any goods or services, or (b) a beneficial interest in any contract or agreement to which Parent is a party or by which it or any of its assets may be bound or affected.
+ 
+Section 3.21                      Questionable Payments.  Neither Parent, Acquisition Corp. nor, to the knowledge of Parent, any director, officer, agent, employee or other Person associated with or acting on behalf of Parent or Acquisition Corp. has used any corporate funds for unlawful contributions, gifts, entertainment or other unlawful expenses relating to political activity; made any direct or indirect unlawful payments to government officials or employees from corporate funds; established or maintained any unlawful or unrecorded fund of corporate monies or other assets; made any false or fictitious entries on the books of record of any such corporations; or made any bribe, rebate, payoff, influence payment, kickback or other unlawful payment.
+ 
+
+
+  
+
+
+- 22 -
+
+
+
+
+
+  
+
+
+ 
+Section 3.22                      Obligations to or by Stockholders.  Except as set forth in the Parent SEC Documents, Parent has no liability or obligation or commitment to any stockholder of Parent or any Affiliate or “associate” (as such term is defined in Rule 405 under the Securities Act) of any stockholder of Parent, nor does any stockholder of Parent or any such Affiliate or associate have any liability, obligation or commitment to Parent.
+ 
+Section 3.23                      Assets and Contracts.  Except as expressly set forth in this Agreement, the Parent Balance Sheet or the notes thereto, or the Parent SEC Documents, Parent is not a party to any written or oral agreement not made in the ordinary course of business that is material to Parent. Parent does not own any real property. Except as expressly set forth in this Agreement, the Parent Balance Sheet or the notes thereto, or the Parent SEC Documents, Parent is not a party to or otherwise barred by any written or oral (a) agreement with any labor union, (b) agreement for the purchase of fixed assets or for the purchase of materials, supplies or equipment in excess of normal operating requirements, (c) agreement for the employment of any officer, individual employee or other Person on a full-time basis or any agreement with any Person for consulting services, (d) bonus, pension, profit sharing, retirement, stock purchase, stock option, deferred compensation, medical, hospitalization or life insurance or similar plan, contract or understanding with respect to any or all of the employees of Parent or any other Person, (e) indenture, loan or credit agreement, note agreement, deed of trust, mortgage, security agreement, promissory note or other agreement or instrument relating to or evidencing Indebtedness for Borrowed Money or subjecting any asset or property of Parent to any Lien or evidencing any Indebtedness, (f) guaranty of any Indebtedness, (g) lease or agreement under which Parent is lessee of or holds or operates any property, real or personal, owned by any other Person, (h) lease or agreement under which Parent is lessor or permits any Person to hold or operate any property, real or personal, owned or controlled by Parent, (i) agreement granting any preemptive right, right of first refusal or similar right to any Person, (j) agreement or arrangement with any Affiliate or any “associate” (as such term is defined in Rule 405 under the Securities Act) of Parent or any present or former officer, director or stockholder of Parent, (k) agreement obligating Parent to pay any royalty or similar charge for the use or exploitation of any tangible or intangible property, (1) covenant not to compete or other restriction on its ability to conduct a business or engage in any other activity, (m) distributor, dealer, manufacturer’s representative, sales agency, franchise or advertising contract or commitment, (n) agreement to register securities under the Securities Act, (o) collective bargaining agreement or (p) agreement or other commitment or arrangement with any Person continuing for a period of more than three months from the Closing Date that involves an expenditure or receipt by Parent in excess of $1,000. Parent maintains no insurance policies or insurance coverage of any kind with respect to Parent, its business, premises, properties, assets, employees and agents. No consent of any bank or other depository is required to maintain any bank account, other deposit relationship or safety deposit box of Parent in effect following the consummation of the Merger and the transactions contemplated hereby.
+ 
+Section 3.24                      Employees.  Other than pursuant to ordinary arrangements of employment compensation, Parent is not under any obligation or liability to any officer, director, employee or Affiliate of Parent.
+ 
+
+
+  
+
+
+- 23 -
+
+
+
+
+
+  
+
+
+ 
+Section 3.25                      Disclosure.  There is no fact relating to Parent that Parent has not disclosed to the Company in writing that materially and adversely affects nor, insofar as Parent can now foresee, will materially and adversely affect, the condition (financial or otherwise), properties, assets, liabilities, business operations, results of operations or prospects of Parent. No representation or warranty by Parent herein and no information disclosed in the schedules or exhibits hereto by Parent contains any untrue statement of a material fact or omits to state a material fact necessary to make the statements contained herein or therein not misleading.
+ 
+ARTICLE IV.
+ADDITIONAL REPRESENTATIONS, WARRANTIES AND
+COVENANTS OF THE STOCKHOLDERS
+ 
+Promptly after the Effective Time, Parent shall cause to be mailed to each holder of record of Company Common Stock that was converted pursuant to Section 1.06 hereof into the right to receive Parent Stock a letter of transmittal (“Letter of Transmittal”) that shall contain additional representations, warranties and covenants of such Stockholder, including without limitation, that (a) such Stockholder has full right, power and authority to deliver such Company Common Stock and Letter of Transmittal, (b) the delivery of such Company Common Stock will not violate or be in conflict with, result in a breach of or constitute a default under, any indenture, loan or credit agreement, deed of trust, mortgage, security agreement or other agreement or instrument to which such Stockholder is bound or affected, (c) such Stockholder has good, valid and marketable title to all shares of Company Common Stock indicated in such Letter of Transmittal and that such Stockholder is not affected by any voting trust, agreement or arrangement affecting the voting rights of such Company Common Stock, (d) whether such Stockholder is an “accredited investor,” as such term is defined in Regulation D under the Securities Act and that such Stockholder is acquiring Parent Stock for investment purposes, and not with a view to selling or otherwise distributing such Parent Stock in violation of the Securities Act or the securities laws of any state and (e) such Stockholder has had an opportunity to ask and receive answers to any questions such Stockholder may have had concerning the terms and conditions of the Merger and the Parent Stock and has obtained any additional information that such Stockholder has requested. Delivery shall be effected, and risk of loss and title to the Company Common Stock shall pass, only upon delivery to Parent (or an agent of Parent) of (x) certificates evidencing ownership thereof as contemplated by Section 1.07 hereof (or affidavit of lost certificate), and (y) the Letter of Transmittal containing the representations, warranties and covenants contemplated by this Article IV.
+ 
+ARTICLE V.
+CONDUCT OF BUSINESSES PENDING THE MERGER.
+ 
+Section 5.01                      Conduct of Business by the Company Pending the Merger.  Prior to the Effective Time, unless Parent or Acquisition Corp. shall otherwise agree in writing or as otherwise contemplated by this Agreement:
+ 
+(a)           the business of the Company shall be conducted only in the ordinary course;
+ 
+(b)           the Company shall not (i) directly or indirectly redeem, purchase or otherwise acquire or agree to redeem, purchase or otherwise acquire any shares of its capital stock; (ii) amend its Articles of Incorporation or By-laws except to effectuate the transactions contemplated in the Disclosures or (iii) split, combine or reclassify the outstanding Company Common Stock or declare, set aside or pay any dividend payable in cash, stock or property or make any distribution with respect to any such stock;
+ 
+
+
+  
+
+
+- 24 -
+
+
+
+
+
+  
+
+
+ 
+(c)           the Company shall not (i) issue or agree to issue any additional shares of, or options, warrants or rights of any kind to acquire any shares of, Company Common Stock, except to issue shares of Company Common Stock in connection with any matter relating to the Disclosures; (ii) acquire or dispose of any fixed assets or acquire or dispose of any other substantial assets other than in the ordinary course of business; (iii) incur additional Indebtedness or any other liabilities or enter into any other transaction other than in the ordinary course of business; (iv) enter into any contract, agreement, commitment or arrangement with respect to any of the foregoing or (v) except as contemplated by this Agreement, enter into any contract, agreement, commitment or arrangement to dissolve, merge, consolidate or enter into any other material business combination;
+ 
+(d)           the Company shall use its best efforts to preserve intact the business organization of the Company, to keep available the service of its present officers and key employees, and to preserve the good will of those having business relationships with it;
+ 
+(e)           the Company will not, nor will it authorize any director or authorize or permit any officer or employee or any attorney, accountant or other representative retained by it to make, solicit, encourage any inquiries with respect to, or engage in any negotiations concerning, any Acquisition Proposal (as defined below for purposes of this paragraph). The Company will promptly advise Parent orally and in writing of any such inquiries or proposals (or requests for information) and the substance thereof. As used in this paragraph, “Acquisition Proposal” shall mean any proposal for a merger or other business combination involving the Company or for the acquisition of a substantial equity interest in it or any material assets of it other than as contemplated by this Agreement. The Company will immediately cease and cause to be terminated any existing activities, discussions or negotiations with any Person conducted heretofore with respect to any of the foregoing; and
+ 
+(f)           the Company will not enter into any new employment agreements with any of its officers or employees or grant any increases in the compensation or benefits of its officers and employees or amend any employee benefit plan or arrangement.
+ 
+Section 5.02                      Conduct of Business by Parent and Acquisition Corp. Pending the Merger. Prior to the Effective Time, unless the Company shall otherwise agree in writing or as otherwise contemplated by this Agreement:
+ 
+(a)           the business of Parent and Acquisition Corp. shall be conducted only in the ordinary course; provided, however, that Parent shall take the steps necessary to have discontinued its existing business without liability to Parent or Acquisition Corp. immediately following the Effective Time;
+ 
+(b)           neither Parent nor Acquisition Corp. shall (i) directly or indirectly redeem, purchase or otherwise acquire or agree to redeem, purchase or otherwise acquire any shares of its capital stock; (ii) amend its charter or by-laws other than to effectuate the transactions contemplated hereby; or (iii) split, combine or reclassify its capital stock or declare, set aside or pay any dividend payable in cash, stock or property or make any distribution with respect to such stock;
+ 
+
+
+  
+
+
+- 25 -
+
+
+
+
+
+  
+
+
+ 
+(c)           neither Parent nor Acquisition Corp. shall (i) issue or agree to issue any additional shares of, or options, warrants or rights of any kind to acquire shares of, its capital stock; (ii) acquire or dispose of any assets other than in the ordinary course of business (except for dispositions in connection with Section 5.02(a) hereof); (iii) incur additional Indebtedness or any other liabilities or enter into any other transaction except in the ordinary course of business; (iv) enter into any contract, agreement, commitment or arrangement with respect to any of the foregoing or (v) except as contemplated by this Agreement, enter into any contract, agreement, commitment or arrangement to dissolve, merge, consolidate or enter into any other material business contract or enter into any negotiations in connection therewith;
+ 
+(d)           neither Parent nor Acquisition Corp. will, nor will they authorize any director or authorize or permit any officer or employee or any attorney, accountant or other representative retained by them to, make, solicit, encourage any inquiries with respect to, or engage in any negotiations concerning, any Acquisition Proposal (as defined below for purposes of this paragraph). Parent will promptly advise the Company orally and in writing of any such inquiries or proposals (or requests for information) and the substance thereof. As used in this paragraph, “Acquisition Proposal” shall mean any proposal for a merger or other business combination involving Parent or Acquisition Corp. or for the acquisition of a substantial equity interest in either of them or any material assets of either of them other than as contemplated by this Agreement. Parent will immediately cease and cause to be terminated any existing activities, discussions or negotiations with any Person conducted heretofore with respect to any of the foregoing; and
+ 
+(e)           neither Parent nor Acquisition Corp. will enter into any new employment agreements with any of their officers or employees or grant any increases in the compensation or benefits of their officers and employees.
+ 
+ARTICLE VI.
+ADDITIONAL AGREEMENTS
+ 
+Section 6.01                      Access and Information.  The Company, on the one hand, and Parent and Acquisition Corp., on the other hand, shall each afford to the other and to the other’s accountants, counsel and other representatives full access during normal business hours throughout the period prior to the Effective Time to all of its properties, books, contracts, commitments and records (including but not limited to tax returns) and during such period, each shall furnish promptly to the other all information concerning its business, properties and personnel as such other party may reasonably request, provided that no investigation pursuant to this Section 6.01 shall affect any representations or warranties made herein. Each party shall hold, and shall cause its employees and agents to hold, in confidence all such information (other than such information that (a) is already in such party’s possession or (b) becomes generally available to the public other than as a result of a disclosure by such party or its directors, officers, managers, employees, agents or advisors or (c) becomes available to such party on a non-confidential basis from a source other than a party hereto or its advisors, provided that such source is not known by such party to be bound by a confidentiality agreement with or other obligation of secrecy to a party hereto or another party until such time as such information is otherwise publicly available; provided, however, that (i) any such information may be disclosed to such party’s directors, officers, employees and representatives of such party’s advisors who need to know such information for the purpose of evaluating the transactions contemplated hereby (it being understood that such directors, officers, employees and representatives shall be informed by such party of the confidential nature of such information), (ii) any disclosure of such information may be made as to which the party hereto furnishing such information has consented in writing and (iii) any such information may be disclosed pursuant to a judicial, administrative or governmental order or request; provided, further, that the requested party will promptly so notify the other party so that the other party may seek a protective order or appropriate remedy and/or waive compliance with this Agreement and if such protective order or other remedy is not obtained or the other party waives compliance with this provision, the requested party will furnish only that portion of such information that is legally required and will exercise its best efforts to obtain a protective order or other reliable assurance that confidential treatment will be accorded the information furnished. If this Agreement is terminated, each party will deliver to the other all documents and other materials (including copies) obtained by such party or on its behalf from the other party as a result of this Agreement or in connection herewith, whether so obtained before or after the execution hereof.
+ 
+
+
+  
+
+
+- 26 -
+
+
+
+
+
+  
+
+
+ 
+Section 6.02                      Additional Agreements.  Subject to the terms and conditions herein provided, each of the parties hereto agrees to use its commercially reasonable efforts to take, or cause to be taken, all action and to do, or cause to be done, all things necessary, proper or advisable under applicable laws and regulations to consummate and make effective the transactions contemplated by this Agreement, including using its commercially reasonable efforts to satisfy the conditions precedent to the obligations of any of the parties hereto, to obtain all necessary waivers, and to lift any injunction or other legal bar to the Merger (and, in such case, to proceed with the Merger as expeditiously as possible). In order to obtain any necessary governmental or regulatory action or non-action, waiver, consent, extension or approval, each of Parent, Acquisition Corp. and the Company agrees to take all reasonable actions and to enter into all reasonable agreements as may be necessary to obtain timely governmental or regulatory approvals and to take such further action in connection therewith as may be necessary. In case at any time after the Effective Time any further action is necessary or desirable to carry out the purposes of this Agreement, the proper officers and/or directors of Parent, Acquisition Corp. and the Company shall take all such necessary action.
+ 
+Section 6.03                      Publicity.  No party shall issue any press release or public announcement pertaining to the Merger that has not been agreed upon in advance by Parent and the Company, except as Parent reasonably determines to be necessary in order to comply with the rules of the Commission or of the principal trading exchange or market for the Parent Common Stock, provided, that in such case Parent will use its best efforts to allow the Company to review and reasonably approve any such press release or public announcement prior to its release.
+ 
+Section 6.04                      Appointment of Directors and Officers.  Immediately at the Effective Time, the officers and directors of the Parent prior to the Closing Date shall remain the officers and directors of the Parent after the Closing Date. At the first annual meeting of Parent stockholders and thereafter, the election of members of Parent’s Board of Directors shall be accomplished in accordance with the By-laws of Parent and the rules of the Commission.
+ 
+
+
+  
+
+
+- 27 -
+
+
+
+
+
+  
+
+
+ 
+ARTICLE VII.
+CONDITIONS TO PARTIES’ OBLIGATIONS
+ 
+Section 7.01                      Conditions to Parent and Acquisition Corp. Obligations.  The obligations of Parent and Acquisition Corp. under the Merger Documents are subject to the fulfillment, at or prior to the Closing, of the following conditions, any of which may be waived in whole or in part by Parent:
+ 
+(a)           The representations and warranties of the Company under this Agreement shall be deemed to have been made again on the Closing Date and shall then be true and correct in all material respects.
+ 
+(b)           The Company shall have performed and complied in all material respects with all agreements and conditions required by this Agreement to be performed or complied with by it on or before the Closing Date.
+ 
+(c)           There shall not exist on the Closing Date any Default (as defined below) or Event of Default (as defined below) or any event or condition that, with the giving of notice or lapse of time or both, would constitute a Default or Event of Default and, since the Company Balance Sheet Date, there shall have been no material adverse change in the Condition of the Company. For purposes of this Agreement, “Default” shall mean a default or failure in the due observance or performance of any covenant, condition or agreement on the part of a party to be observed or performed under the terms of the Merger Documents, if such default or failure in performance shall remain un-remedied for five (5) days. Furthermore, for purposes of this Agreement, “Event of Default” shall mean (i) the failure to pay any Indebtedness for Borrowed Money, or any interest or premium thereon, within five (5) days after the same shall become due, whether such Indebtedness shall become due by scheduled maturity, by required prepayment, by acceleration, by demand or otherwise, (ii) an event of default under any agreement or instrument evidencing or securing or relating to any such Indebtedness or (iii) the failure to perform or observe any material term, covenant, agreement or condition on its part to be performed or observed under any agreement or instrument evidencing or securing or relating to any such Indebtedness when such term, covenant or agreement is required to be performed or observed.
+ 
+(d)           No action or proceeding before any court, governmental body or agency shall have been threatened, asserted or instituted to restrain or prohibit, or to obtain substantial damages in respect of, the Merger Documents or the carrying out of the transactions contemplated by the Merger Documents.
+ 
+(e)           Parent and Acquisition Corp. shall have received the following:
+ 
+(i)           copies of resolutions of the Board of Directors and the Stockholders, certified by the Secretary of the Company, authorizing and approving the execution, delivery and performance of the Merger Documents and all other documents and instruments to be delivered pursuant thereto;
+ 
+
+
+  
+
+
+- 28 -
+
+
+
+
+
+  
+
+
+ 
+(ii)           a certificate of incumbency executed by the Secretary of the Company certifying the names, titles and signatures of the officers authorized to execute any documents referred to in this Agreement and further certifying that the Certificate of Incorporation and By-laws of the Company delivered to Parent and Acquisition Corp. at the time of the execution of this Agreement have been validly adopted and have not been amended or modified;
+ 
+(iii)           a certificate, dated the Closing Date, executed by the Chief Executive Officer of the Company certifying that he has no knowledge of any plan to issue any securities of the Company, and the Company has not entered into any agreement, written or oral, to issue any securities of the Company except as described in the Disclosures or this Agreement;
+ 
+(iv)           evidence as of a recent date of the good standing and corporate existence of the Company issued by the Secretary of State of the State of Nevada and evidence that the Company is qualified to transact business as a foreign corporation and is in good standing in each state of the United States and in each other jurisdiction where the character of the property owned or leased by it or the nature of its activities makes such qualification necessary; and
+ 
+(v)           such additional supporting documentation and other information with respect to the transactions contemplated hereby as Parent and Acquisition Corp. may reasonably request.
+ 
+(f)           All corporate and other proceedings and actions taken in connection with the transactions contemplated hereby and all certificates, opinions, agreements, instruments and documents mentioned herein or incident to any such transactions shall be reasonably satisfactory in form and substance to Parent and Acquisition Corp. The Company shall furnish to Parent and Acquisition Corp. such supporting documentation and evidence of the satisfaction of any or all of the conditions precedent specified in this Section 7.01 as Parent or its counsel may reasonably request.
+ 
+Section 7.02                      Conditions to the Company’s Obligations.  The obligations of the Company under the Merger Documents are subject to the fulfillment, at or prior to the Closing, of the following conditions, any of which may be waived in whole or in part by the Company.
+ 
+(a)           The representations and warranties of Parent and Acquisition Corp. under this Agreement shall be deemed to have been made again on the Closing Date and shall then be true and correct in all material respects.
+ 
+(b)           Parent and Acquisition Corp. shall have performed and complied in all material respects with all agreements and conditions required by the Merger Documents to be performed or complied with by them on or before the Closing Date.
+ 
+(c)           There shall not exist on the Closing Date any Default or Event of Default or any event or condition that, with the giving of notice or lapse of time or both, would constitute a Default or Event of Default and, since the Parent Balance Sheet Date, there shall have been no material adverse change in the Condition of the Parent.
+ 
+
+
+  
+
+
+- 29 -
+
+
+
+
+
+  
+
+
+ 
+(d)           The Company shall have received the following:
+ 
+(i)           copies of resolutions of Parent’s and Acquisition Corp.’s respective boards of directors and the sole stockholder of Acquisition Corp., certified by their respective Secretaries, authorizing and approving, to the extent applicable, the execution, delivery and performance of the Merger Documents and all other documents and instruments to be delivered by them pursuant thereto;
+ 
+(ii)           a certificate of incumbency executed by the respective Secretaries of Parent and Acquisition Corp. certifying the names, titles and signatures of the officers authorized to execute the documents referred to in this Agreement and further certifying that the Certificates of Incorporation and By-Laws of Parent and Acquisition Corp. appended thereto have not been amended or modified.
+ 
+(iii)           a certificate, dated the Closing Date, executed by the President or Chief Executive Officer of each of the Parent and Acquisition Corp., certifying that (A) except for the filing of the Certificate of Merger, all consents, authorizations, orders and approvals of, and filings and registrations with, any court, governmental body or instrumentality that are required for the execution and delivery of the Merger Documents and the consummation of the Merger shall have been duly made or obtained, and all material consents by third parties required for the Merger have been obtained and (B) no action or proceeding before any court, governmental body or agency has been threatened, asserted or instituted to restrain or prohibit, or to obtain substantial damages in respect of, the Merger Documents or the carrying out of the transactions contemplated by any of the Merger Documents;
+ 
+(iv)           a certificate of Empire Stock Transfer, Parent’s transfer agent and registrar, certifying, as of the business day prior to the Closing Date, a true and complete list of the names and addresses of the record owners of all of the outstanding shares of Parent Common Stock, together with the number of shares of Parent Common Stock held by each record owner and the total number of shares of Parent Common Stock then outstanding;
+ 
+(v)           intentionally omitted;
+ 
+(vi)           evidence as of a recent date and within five (5) days of the Effective Date of the good standing and corporate existence of each of Parent and Acquisition Corp. issued by the Secretary of State of the State of Delaware and evidence that Parent and Acquisition Corp. are qualified to transact business as foreign corporations and are in good standing in each state of the United States and in each other jurisdiction where the character of the property owned or leased by them or the nature of their activities makes such qualification necessary; and
+ 
+(vii)           such additional supporting documentation and other information with respect to the transactions contemplated hereby as the Company may reasonably request.
+ 
+(e)           All corporate and other proceedings and actions taken in connection with the transactions contemplated hereby and all certificates, opinions, agreements, instruments and documents mentioned herein or incident to any such transactions shall be satisfactory in form and substance to the Company. Parent and Acquisition Corp. shall furnish to the Company such supporting documentation and evidence of satisfaction of any or all of the conditions specified in this Section 7.02 as the Company may reasonably request.
+ 
+
+
+  
+
+
+- 30 -
+
+
+
+
+
+  
+
+
+ 
+(f)           No action or proceeding before any court, governmental body or agency shall have been threatened, asserted or instituted to restrain or prohibit, or to obtain substantial damages in respect of, the Merger Documents or the carrying out of the transactions contemplated by the Merger Documents.
+ 
+ARTICLE VIII.
+INDEMNIFICATION AND RELATED MATTERS
+ 
+Section 8.01                      Indemnification by Parent. Parent shall indemnify and hold harmless the Company and the Stockholders (together the “Company Indemnified Parties”), and shall reimburse the Company Indemnified Parties for, any loss, liability, claim, damage, expense (including, but not limited to, costs of investigation and defense and reasonable attorneys’ fees) or diminution of value (collectively, “Damages”) arising from or in connection with (a) any inaccuracy, in any material respect, in any of the representations and warranties of Parent and Acquisition Corp. in this Agreement or in any certificate delivered by Parent and Acquisition Corp. to the Company pursuant to this Agreement, or any actions, omissions or statements of fact inconsistent with any such representation or warranty, (b) any failure by Parent or Acquisition Corp. to perform or comply in any material respect with any covenant or agreement in this Agreement, (c) any claim for brokerage or finder’s fees or commissions or similar payments based upon any agreement or understanding alleged to have been made by any such party with Parent or Acquisition Corp. in connection with any of the transactions contemplated by this Agreement, (d) taxes attributable to any transaction or event occurring on or prior to the Closing, (e) any claim relating to or arising out of any liabilities reflected in the Parent Financial Statement or with respect to accounting fees arising thereafter or (f) any litigation, action, claim, proceeding or investigation by any third party relating to or arising out of the business or operations of Parent, or the actions of Parent or any holder of Parent capital stock prior to the Effective Time.
+ 
+Section 8.02                      Survival. All representations, warranties, covenants and agreements of Parent and Acquisition Corp. contained in this Agreement or in any certificate delivered pursuant to this Agreement shall survive the Closing for the time period set forth in Section 8.03 notwithstanding any investigation conducted with respect thereto. The representations and warranties of the Company contained in this Agreement or in any certificate delivered pursuant to this Agreement shall not survive the Closing.
+ 
+Section 8.03                      Time Limitations. Neither Parent nor Acquisition Corp. shall have any liability (for indemnification or otherwise) with respect to any representation or warranty, or agreement to be performed and complied with prior to the Effective Time, unless on or before the two-year anniversary of the Effective Time (the “Claims Deadline”), Parent is given notice of a claim with respect thereto, in accordance with Section 8.05, specifying the factual basis therefor in reasonable detail to the extent then known by the Company Indemnified Parties.
+ 
+
+
+  
+
+
+- 31 -
+
+
+
+
+
+  
+
+
+ 
+Section 8.04                      Limitation on Liability. The obligations of Parent and Acquisition Corp. to the Company Indemnified Parties set forth in Section 8.01 shall be subject to the following limitations:
+ 
+(a)           The aggregate liability of Parent and Acquisition Corp. to the Company Indemnified Parties under this Agreement shall be payable by the issuance of additional shares of Parent Common Stock pursuant to Section 8.06.
+ 
+(b)           Other than claims based on fraud or for specific performance, injunctive or other equitable relief, the indemnity provided in this Article VIII shall be the sole and exclusive remedy of the Company Indemnified Parties against Parent and Acquisition Corp. at law or equity for any matter covered by Section 8.01.
+ 
+Section 8.05                      Notice of Claims.
+ 
+(a)           If, at any time on or prior to the Claims Deadline, any of the Company Indemnified Parties shall assert a claim for indemnification pursuant to Section 8.01, such Company Indemnified Party shall submit to Parent a written claim in good faith signed by an authorized officer of the Company or other Company Indemnified Party, as applicable, stating (i) that a Company Indemnified Party incurred or reasonably believes it may incur Damages and the reasonable estimate of the amount of any such Damages; (ii) in reasonable detail, the facts alleged as the basis for such claim and the section or sections of this Agreement alleged as the basis or bases for the claim; and (iii) if the Damages have actually been incurred, the number of additional shares of Parent Common Stock to which the Stockholders are entitled to with respect to such Damages, which shall be determined as provided in Section 8.06 below. If the claim is for Damages which the Company Indemnified Parties reasonably believe may be incurred or are otherwise un-liquidated, the written claim of the applicable Company Indemnified Party shall state the reasonable estimate of such Damages, in which event a claim shall be deemed to have been asserted under this Article VIII in the amount of such estimated Damages, but no distribution of additional shares of Parent Common Stock to the Stockholders pursuant to Section 8.06 below shall be made until such Damages have actually been incurred.
+ 
+(b)           In the event that any action, suit or proceeding is brought against any Company Indemnified Party with respect to which Parent may have liability under this Article VIII, Parent shall have the right, at its cost and expense, to defend such action, suit or proceeding in the name and on behalf of the Company Indemnified Party; provided, however, that a Company Indemnified Party shall have the right to retain its own counsel, with fees and expenses paid by Parent, if representation of the Company Indemnified Party by counsel retained by Parent would be inappropriate because of actual or potential differing interests between Parent and the Company Indemnified Party. In connection with any action, suit or proceeding subject to Article VIII, Parent and each Company Indemnified Party agree to render to each other such assistance as may reasonably be required in order to ensure proper and adequate defense of such action, suit or proceeding. Parent shall not, without the prior written consent of the applicable Company Indemnified Party, which consent shall not be unreasonably withheld or delayed, settle or compromise any claim or demand if such settlement or compromise does not include an irrevocable and unconditional release of such Company Indemnified Party for any liability arising out of such claim or demand.
+ 
+
+
+  
+
+
+- 32 -
+
+
+
+
+
+  
+
+
+ 
+Section 8.06                      Payment of Damages. In the event that the Company Indemnified Parties shall be entitled to indemnification pursuant to this Article VIII for actual Damages incurred by them, Parent shall, within thirty (30) days after the final determination of the amount of such Damages, issue to the Stockholders that number of additional shares of Parent Common Stock in an aggregate amount equal to the quotient obtained by dividing (x) the amount of such Damages by (y) the Fair Market Value per share of the Parent Common Stock as of the date (the “Determination Date”) of the submission of the notice of claim to Parent pursuant to Section 8.05. Such shares of Parent Common Stock shall be issued to the Stockholders pro rata, in proportion to the number of shares of Parent Common Stock issued (or issuable) to the Stockholders at the Effective Time. For purposes of this Section 8.06, “Fair Market Value” shall mean, with respect to a share of Parent Common Stock on any Determination Date, the average of the daily closing prices for the 10 consecutive business days prior to such date. The closing price for each day shall be the last sales price or in case no sale takes place on such day, the average of the closing high bid and low asked prices, in either case (a) as officially quoted on the OTC Bulletin Board, the NYSE Amex, the NASDAQ Stock Market or such other market on which the Parent Common Stock is then listed for trading or quoted, or (b) if, in the reasonable judgment of the Board of Directors of Parent, the OTC Bulletin Board, the NYSE Amex or the NASDAQ Stock Market is no longer the principal United States market for the Parent Common Stock, then as quoted on the principal United States market for the Parent Common Stock as determined by the Board of Directors of Parent, or (c) if, in the reasonable judgment of the Board of Directors of Parent, there exists no principal United States market for the Parent Common Stock, then as reasonably determined in good faith by the Board of Directors of Parent.
+ 
+ARTICLE IX.
+TERMINATION PRIOR TO CLOSING
+ 
+Section 9.01                      Termination of Agreement.  This Agreement may be terminated at any time prior to the Closing:
+ 
+(a)           by the mutual written consent of the Company, Acquisition Corp. and Parent;
+ 
+(b)           by the Company, if Parent or Acquisition Corp. (i) fails to perform in any material respect any of its agreements contained herein required to be performed by it on or prior to the Closing Date, or (ii) materially breach any of their representations, warranties or covenants contained herein, which failure or breach is not cured within thirty (30) days after the Company has notified Parent and Acquisition Corp. of its intent to terminate this Agreement pursuant to this paragraph (b);
+ 
+(c)           by Parent and Acquisition Corp. if the Company (i) fails to perform in any material respect any of its agreements contained herein required to be performed by it on or prior to the Closing Date or (ii) materially breaches any of its representations, warranties or covenants contained herein, which failure or breach is not cured within thirty (30) days after Parent or Acquisition Corp. has notified the Company of its intent to terminate this Agreement pursuant to this paragraph (c);
+ 
+
+
+  
+
+
+- 33 -
+
+
+
+
+
+  
+
+
+ 
+(d)           by either the Company, on the one hand, or Parent and Acquisition Corp., on the other hand, if there shall be any order, writ, injunction or decree of any court or governmental or regulatory agency binding on Parent, Acquisition Corp. or the Company that prohibits or materially restrains any of them from consummating the transactions contemplated hereby, provided that the parties hereto shall have used their best efforts to have any such order, writ, injunction or decree lifted and the same shall not have been lifted within ninety (90) days after entry by any such court or governmental or regulatory agency; or
+ 
+(e)           by either the Company, on the one hand, or Parent and Acquisition Corp., on the other hand, if the Closing has not occurred on or prior to December 31, 2011, for any reason other than delay or nonperformance of the party seeking such termination.
+ 
+Section 9.02                      Termination of Obligations.  Termination of this Agreement pursuant to this Article IX shall terminate all obligations of the parties hereunder, except for the obligations under Sections 6.01, 10.03 and 10.11; provided, however, that termination pursuant to paragraphs (b) or (c) of Section 9.01 shall not relieve the defaulting or breaching party or parties from any liability to the other parties hereto.
+ 
+ARTICLE X.
+MISCELLANEOUS
+ 
+Section 10.01                                Notices.  Any notice, request or other communication hereunder shall be given in writing and shall be served either personally, by overnight delivery or delivered by mail, certified return receipt and addressed to the following addresses:
+ 
+
+
+
+ 
+
+(a) 
+
+
+If to Parent or Acquisition Corp.:
+
+
+
+Bullfrog Gold Corp.
+897 Quail Run Drive
+ 
+Grand Junction, CO 81505
+ 
+
+
+
+ 
+
+(b) 
+
+
+If to the Company:
+
+
+
+ 
+Standard Gold Corp.
+3266 W. Galveston Drive
+Apache Junction, 85120
+ 
+Notices shall be deemed received at the earlier of actual receipt or three (3) business days following mailing. Counsel for a party (or any authorized representative) shall have authority to accept delivery of any notice on behalf of such party.
+ 
+Section 10.02                                Entire Agreement.  This Agreement, including the schedules and exhibits attached hereto and other documents referred to herein, contains the entire understanding of the parties hereto with respect to the subject matter hereof. This Agreement supersedes all prior agreements and undertakings between the parties with respect to such subject matter.
+ 
+
+
+  
+
+
+- 34 -
+
+
+
+
+
+  
+
+
+ 
+Section 10.03                                Expenses.  Each party shall bear and pay all of the legal, accounting and other expenses incurred by it in connection with the transactions contemplated by this Agreement.
+ 
+Section 10.04                                Time.  Time is of the essence in the performance of the parties’ respective obligations herein contained.
+ 
+Section 10.05                                Severability.  Any provision of this Agreement that is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+ 
+Section 10.06                                Successors and Assigns.  This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors, assigns and heirs; provided, however, that neither party shall directly or indirectly transfer or assign any of its rights hereunder in whole or in part without the written consent of the others, which may be withheld in its sole discretion, and any such transfer or assignment without said consent shall be void.
+ 
+Section 10.07                                No Third Parties Benefited.  This Agreement is made and entered into for the sole protection and benefit of the parties hereto, their successors, assigns and heirs, and no other Person shall have any right or action under this Agreement.
+ 
+Section 10.08                                Counterparts.  This Agreement may be executed in one or more counterparts, with the same effect as if all parties had signed the same document. Each such counterpart shall be an original, but all such counterparts together shall constitute a single agreement.
+ 
+Section 10.09                                Recitals, Schedules and Exhibits.  The Recitals, Schedules and Exhibits to this Agreement are incorporated herein and, by this reference, made a part hereof as if fully set forth herein.
+ 
+Section 10.10                                Section Headings and Gender.  The Section headings used herein are inserted for reference purposes only and shall not in any way affect the meaning or interpretation of this Agreement. All personal pronouns used in this Agreement shall include the other genders, whether used in the masculine, feminine or neuter gender, and the singular shall include the plural, and vice versa, whenever and as often as may be appropriate.
+ 
+Section 10.11                                Governing Law.  This Agreement shall be governed by and construed and enforced in accordance with the internal laws of the State of New York without regard to principles of conflicts of laws, except that the applicable terms of Section 1 shall be governed by the DGCL.
+ 
+[Signature Page Follows]
+ 
+
+
+  
+
+
+- 35 -
+
+
+
+
+
+  
+
+
+ 
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement to be binding and effective as of the day and year first above written.
+ 
+ 
+
+
+
+
+ 
+ 
+PARENT:
+  
+BULLFROG GOLD CORP.
+
+ 
+
+ 
+ 
+ 
+ 
+
+
+ 
+
+
+By: 
+
+ 
+ 
+
+ 
+ 
+ 
+Name: David Beling
+Title: President
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ACQUISITION CORP:
+  
+BULLFROG GOLD ACQUISITION CORP.
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+By: 
+
+ 
+ 
+
+ 
+ 
+ 
+Name: David Beling
+Title: President
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+COMPANY:
+  
+STANDARD GOLD CORP.
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+By:
+
+ 
+ 
+
+ 
+ 
+ 
+Name: Joshua Bleak
+Title: President
+
+ 
+
+
+
+ 
+ 
+[SIGNATURE PAGE TO AGREEMENT OF MERGER AND PLAN OF REORGANIZATION]
+ 
+ 
+
+
+
